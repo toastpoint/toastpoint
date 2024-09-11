@@ -1,0 +1,4 @@
+Index: maximum number of indexed words per file = infinity
+Index: maximum percentage of numeric words per file = 50
+Warning: ignoring very long word 'zzzyyyxxxwwwvvvuuutttsssrrrqqqpppooonnnmmmlllkkkjjjiiihhhgggfffe' (with > 64 chars) in /users/ftp/pub/erique/www/gifs/rosalind.gif
+Warning: ignoring very long word 'oooppaaaahhhmonosambagangagrangagreetangagreetinggreetinggreetin' (with > 64 chars) in /users/ftp/pub/erique/www/fiction/fict98/fict1298.html

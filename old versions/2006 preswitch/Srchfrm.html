@@ -1,0 +1,36 @@
+<HTML>
+<HEAD>
+<TITLE>Toast Point Search Form</TITLE> 
+</HEAD>
+
+<BODY>
+<FORM METHOD="POST" ACTION="http://www.webcom.com/cgi-bin/glimpse">
+
+<H1>The Toast Point Search Form!</H1>
+Why anyone would want to do a search on my Web pages is irrelevant
+- I've got the capability,
+I'm going to use it.<p>
+
+Enter the words you want to search for in that little box there.  
+Separate words with commas for an <b><i>or</i></b> search, or with
+semicolons for an <b><i>and</i></b> search.</P>
+
+<BR>Search word(s): <INPUT TYPE=text NAME="glimpse_search" SIZE =
+40 MAXLENGTH=40>
+
+<BR>Show page titles and descriptions: <INPUT TYPE=checkbox
+NAME="glimpse_show_head" VALUE=on CHECKED>
+
+<BR>Count matches: <INPUT TYPE=checkbox
+NAME="glimpse_count_matches" VALUE=off>
+<BR>Max spelling errors: <INPUT TYPE=text NAME="glimpse_max_errors"
+SIZE = 4>
+<BR>Case sensitive: <INPUT TYPE=checkbox
+NAME="glimpse_case_sensitive" VALUE=on>
+<BR><INPUT TYPE="submit" VALUE="Search">
+<INPUT TYPE=hidden NAME=userid VALUE=erique>
+<INPUT TYPE=hidden NAME=glimpse_directory VALUE=www>
+<HR>
+</FORM>
+</BODY>
+</HTML>

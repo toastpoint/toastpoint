@@ -1,0 +1,4691 @@
+# Webalizer V2.01-10 Incremental Data - 03/21/2009 23:59:48
+2009 3 21 23 59 48
+7039 5502 896 387 161 244 85228289 4001 2182 0
+25 3 89 1 21
+211 157 1585927 58 117 70
+301 229 4870118 71 179 104
+341 252 2952474 82 165 90
+470 369 4678579 79 282 136
+329 261 5208830 65 208 109
+356 292 4642365 64 251 117
+217 148 1894201 55 135 77
+403 291 2685244 77 197 92
+323 233 2685428 82 183 110
+452 374 4146389 82 251 134
+494 406 9788003 79 311 122
+363 277 4028272 89 201 118
+297 234 2669234 80 133 90
+182 136 1687029 55 82 62
+292 245 3456428 73 177 106
+308 244 6312351 75 159 100
+603 467 5843365 137 234 149
+329 271 5547106 84 201 106
+364 290 5518720 89 243 131
+333 265 4172051 64 230 140
+71 61 856175 25 62 28
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+297 235 2877281 189
+209 161 2101197 125
+236 183 3494015 121
+259 214 3074104 188
+156 125 1917868 109
+210 147 5748592 121
+241 164 1992174 131
+263 212 3632592 189
+264 206 4829492 182
+229 179 3476991 147
+246 181 1961198 157
+432 354 3567562 203
+390 312 3876757 212
+284 232 2945007 165
+336 267 3850249 163
+430 347 4761143 231
+360 281 5785734 203
+334 261 5905700 172
+292 224 2229351 134
+349 268 3734852 169
+330 244 2885838 174
+248 193 3144962 113
+328 265 3328884 211
+316 247 4106746 192
+0
+0
+0
+5502
+0
+0
+0
+0
+0
+7
+0
+11
+0
+0
+207
+0
+0
+0
+0
+0
+53
+1259
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/limerick/1996/bestnaut.html
+0 7 0 135464 5 5
+/gifs/carnegieband.jpg
+1 2 0 0 0 0
+/gifs/tpjuly2007.jpg
+1 2 0 42279 0 0
+/fiction/fict98/fict998.html
+0 11 0 86955 5 6
+/limerick/1998/naut1098.html
+0 6 0 146470 4 3
+/
+0 287 0 14824656 250 72
+/haiku/1997/haik1997.html
+0 20 0 34208 8 13
+/fiction/fict9596/fict496.html
+0 4 0 32708 2 1
+/limerick/1996/naut796.html
+0 3 0 28296 1 1
+/limerick/1998/nice198.html
+0 6 0 126270 3 2
+/index_files/image014.gif
+1 2 0 862 0 0
+/gifs/program1a.jpg
+1 2 0 0 0 0
+/haiku/1998/haiku198.html
+0 8 0 181454 5 1
+/gifs/woman.gif
+1 30 0 270396 0 0
+/fiction/crabthb.gif
+1 6 0 101403 0 0
+/haiku/haikufrm.html
+0 5 0 2670 2 3
+/haiku/1995/1995.html
+0 12 0 11412 6 5
+/fiction/fict9596/fict1295.html
+0 4 0 49172 1 2
+/gifs/snetrud2006.jpg
+1 2 0 62221 0 0
+/haiku/haiku.html
+0 113 0 238317 66 38
+/haiku/1996/lastleaf.jpg
+1 1 0 0 0 0
+/limerick/nice499.html
+0 40 0 895141 33 17
+/fiction/fict9596/fict996.html
+0 5 0 200425 3 0
+/gifs/tpapril2007.jpg
+1 2 0 44488 0 0
+/limerick/1998/nice698.html
+0 7 0 145098 4 6
+/index_files/image002.gif
+1 1 0 665 0 0
+/limerick/1996/nice296.html
+0 2 0 18094 0 2
+/fiction/fict97/fict397.html
+0 7 0 70008 4 2
+/gifs/canegiehall049.JPG
+1 2 0 0 0 0
+/limerick/1997/naut597.html
+0 12 0 247148 10 6
+/toastpointtopleft.html
+0 137 0 20412 2 1
+/haiku/1998/haiku698.html
+0 6 0 160230 1 4
+/index_files/image013.gif
+1 2 0 266 0 0
+/limerick/1998/nice1098.html
+0 4 0 130236 1 2
+/gifs/mouthf1.jpg
+1 18 0 58400 0 0
+/limerick/1995/bestnice.html
+0 9 0 55386 5 3
+/limerick/1996/nau1096.html
+0 6 0 140850 4 4
+/writing/sept11.html
+0 5 0 86165 2 2
+/gifs/program2a.jpg
+1 2 0 0 0 0
+/haiku/1995/haikunov.html
+0 2 0 24422 1 1
+/haiku/1998/haik1298.html
+0 7 0 201992 1 3
+/haiku/1997/haiku597.html
+0 11 0 306590 7 4
+/limerick/1996/nice796.html
+0 6 0 65574 5 1
+/index_files/image006.png
+0 1 0 4445 0 0
+/writing/funny.html
+0 8 0 51296 5 0
+/index_files/image001.gif
+1 3 0 4227 0 0
+/limerick/1995/nautjune.html
+0 9 0 26192 7 4
+/limerick/naut199.html
+0 198 0 6551390 184 22
+/travel/bermuda2006.html
+0 4 0 2824 1 1
+/gifs/conductor.jpg
+1 1 0 0 0 0
+/fiction/fict98/fict198.html
+0 13 0 755604 9 7
+/writing/fancy.html
+0 4 0 18880 1 1
+/fiction/fict9596/fic1296.html
+0 8 0 59744 1 5
+/limerick/1998/naut398.html
+0 3 0 174972 1 2
+/haiku/1997/haik1197.html
+0 8 0 211192 5 3
+/haiku/1996/haiku496.html
+0 4 0 76100 4 2
+/limerick/1997/lim1997.html
+0 18 0 30800 6 6
+/fiction/fict499.html
+0 22 0 283096 16 6
+/limerick/docs/fletcher.html
+0 10 0 55760 7 6
+/wumpus.html
+0 7 0 3962 3 0
+/fiction/novels/rosalind.html
+0 10 0 309890 5 4
+/rapture/gd-jimj.gif
+1 1 0 0 0 0
+/haiku/haiku299.html
+0 35 0 2312578 29 12
+/gifs/seal.gif
+1 1 0 0 0 0
+/limerick/1995/nautmay.html
+0 9 0 38340 5 5
+/travel/novascotia-pei2005.html
+0 4 0 2940 0 0
+/gifs/leoonbed.jpg
+1 1 0 0 0 0
+/rapture/yeo-song.gif
+1 22 0 55620 0 0
+/limerick/1997/nice597.html
+0 6 0 100584 2 4
+/gifs/babygr.jpg
+1 1 0 0 0 0
+/rapture/pirates.gif
+1 24 0 88990 0 0
+/fiction/fict98/fict698.html
+0 12 0 154680 9 6
+/haiku/1996/haiku996.html
+0 3 0 44535 1 2
+/fiction/fict9596/fict196.html
+0 5 0 60300 5 1
+/limerick/1996/naut496.html
+0 7 0 151193 5 3
+/limerick/goldstar.gif
+1 1 0 0 0 0
+/gifs/58-w-cliffs.JPG
+1 1 0 0 0 0
+/limerick/1995/nicejune.html
+0 5 0 8550 2 5
+/index_files/image009.wmz
+0 1 0 197 0 0
+/fiction/novels/peak.html
+0 14 0 33740 7 3
+/rapture/uto-look.gif
+1 23 0 80283 0 0
+/writing/computer.html
+0 6 0 41676 2 1
+/index_files/image022.gif
+1 2 0 0 0 0
+/rapture/ida-monk.gif
+1 25 0 83559 0 0
+/gifs/tpoct2007.jpg
+1 1 0 81294 0 0
+/limerick/1998/naut1298.html
+0 4 0 94842 3 2
+/limerick/brady/brady96.html
+0 25 0 115524 15 14
+/limerick/nice199.html
+0 29 0 708764 20 10
+/fiction/fict9596/fict696.html
+0 4 0 60652 3 2
+/writing/pride.html
+0 5 0 45145 1 1
+/limerick/1996/naut996.html
+0 12 0 166224 7 2
+/fiction/novels/petunia.jpg
+1 2 0 79598 0 0
+/index_files/page0001.html
+0 1 0 156190 0 0
+/limerick/1995/nautnov.html
+0 32 0 445856 28 7
+/bio.html
+0 29 0 220304 15 2
+/limerick/1998/nice398.html
+0 6 0 219504 5 4
+/rapture/tbj-jury.gif
+1 52 0 167872 0 0
+/limerick/1995/nautsept.html
+0 12 0 95724 9 5
+/limerick/1997/naut297.html
+0 7 0 186204 2 3
+/haiku/1998/haiku398.html
+0 12 0 478040 6 7
+/gifs/sam.jpg
+1 1 0 0 0 0
+/limerick/1997/naut1197.html
+0 15 0 472978 12 5
+/limerick/1995/nicemay.html
+0 3 0 5577 2 1
+/index_files/image007.jpg
+1 2 0 10612 0 0
+/gifs/canegiehall057.JPG
+1 2 0 0 0 0
+/fiction/fict98/fict1198.html
+0 7 0 72604 5 4
+/haiku/1997/haiku297.html
+0 8 0 385744 4 3
+/limerick/1996/nice496.html
+0 29 0 430416 24 8
+/gifs/tpoct2006.jpg
+1 2 0 39588 0 0
+/fiction/fict97/fict597.html
+0 9 0 94365 5 4
+/limerick/1997/naut797.html
+0 11 0 242374 6 4
+/rapture/gon-baby.gif
+1 23 0 59787 0 0
+/index_files/image032.gif
+1 1 0 0 0 0
+/limerick/1998/nice1298.html
+0 3 0 68466 0 2
+/icons/folder.gif
+1 1 0 0 0 0
+/limerick/brady/brady97.html
+0 20 0 199006 12 8
+/contests.html
+0 7 0 8610 1 1
+/index_files/page0002.html
+0 1 0 151555 0 0
+/gifs/tpwinter20089.jpg
+1 27 0 730288 0 0
+/fiction/fict97/fict1097.html
+0 8 0 82824 4 3
+/limerick/1996/nau1296.html
+0 3 0 77763 2 2
+/haiku/1996/haiku196.html
+0 4 0 40636 4 1
+/gifs/tpnov2007.jpg
+1 1 0 24800 0 0
+/fiction/fict199.html
+0 8 0 150521 5 4
+/limerick/1995/nicesept.html
+0 9 0 33084 3 6
+/gifs/banana.jpg
+1 15 0 57946 0 0
+/gifs/canegiehall045.JPG
+1 2 0 0 0 0
+/limerick/1996/nic1096.html
+0 3 0 29310 2 2
+/haiku/1997/haiku797.html
+0 6 0 143574 3 3
+/limerick/1996/nice996.html
+0 4 0 19888 1 2
+/limerick/1995/nicenov.html
+0 9 0 48861 5 7
+/limerick/1997/nice1197.html
+0 28 0 527607 18 11
+/haiku/1995/haikujul.html
+0 7 0 15190 5 3
+/gifs/carnegiecover.jpg
+1 2 0 0 0 0
+/limerick/1997/nice297.html
+0 13 0 215969 7 7
+/limerick/naut399.html
+0 17 0 649689 9 9
+/gifs/japan.gif
+1 48 0 269639 0 0
+/fiction/fict98/fict398.html
+0 8 0 209768 7 3
+/limerick/1998/naut598.html
+0 6 0 381990 6 3
+/fiction/fict98/fict98.html
+0 14 0 21560 9 8
+/haiku/1996/haiku696.html
+0 5 0 48895 4 4
+/limerick/1996/naut196.html
+0 4 0 114639 3 1
+/haiku/1998/haik1998.html
+0 14 0 30492 5 5
+/gifs/birdumb.gif
+1 146 0 663264 0 0
+/haiku/haiku499.html
+0 14 0 712595 8 8
+/gifs/tpnov2006.jpg
+1 2 0 111604 0 0
+/gifs/tpaprilmay2008.jpg
+1 2 0 39696 0 0
+/limerick/brady/brady98.html
+0 20 0 165940 11 9
+/index_files/page0003.html
+0 1 0 224762 0 0
+/gifs/goldstar.jpg
+1 427 0 771264 0 0
+/limerick/1995/1995.html
+0 18 0 25704 10 3
+/limerick/1997/nice797.html
+0 12 0 232068 10 7
+/index_files/image005.jpg
+1 1 0 3222 0 0
+/rapture/rud-spec.gif
+1 23 0 52269 0 0
+/rapture/hms-dick.gif
+1 24 0 68200 0 0
+/travel/scotland2001.html
+0 3 0 3126 1 0
+/fiction/fict9596/fict396.html
+0 4 0 37380 1 2
+/photo.html
+0 13 0 50736 5 3
+/limerick/1996/naut696.html
+0 3 0 41238 0 1
+/limerick/brady/brady1.html
+0 19 0 80874 11 9
+/tpnews.html
+0 136 0 1038125 3 71
+/icons/blank.gif
+1 1 0 0 0 0
+/writing/pumpkin.html
+0 5 0 18385 1 2
+/travel/italy2005.html
+0 3 0 15018 1 0
+/index_files/image030.gif
+1 1 0 0 0 0
+/limerick/1998/lim1998.html
+0 19 0 38779 8 4
+/travel/buxton2006.html
+0 9 0 17667 4 3
+/fiction/tyrolthb.gif
+1 1 0 0 0 0
+/gifs/tpmar2008.jpg
+1 3 0 72828 0 0
+/limerick/nice399.html
+0 21 0 652932 7 8
+/fiction/fict9596/fict896.html
+0 4 0 111972 3 1
+/limerick/1998/nice598.html
+0 5 0 227600 4 4
+/limerick/docs/formhint.html
+0 30 0 75660 24 11
+/limerick/1996/nice196.html
+0 5 0 53235 1 2
+/gifs/tpaugust2007.jpg
+1 3 0 78346 0 0
+/limerick/brady/brady99.html
+0 18 0 135828 10 10
+/fiction/fict97/fict297.html
+0 9 0 76203 4 4
+/icons/image2.gif
+1 1 0 0 0 0
+/index_files/page0004.html
+0 1 0 174436 0 0
+/fiction/fict97/fict97.html
+0 16 0 24576 9 10
+/limerick/1997/naut497.html
+0 10 0 433460 8 6
+/haiku/1995/haikuaug.html
+0 5 0 31865 3 4
+/haiku/1998/haiku598.html
+0 7 0 202545 5 4
+/haiku/1995/haikudec.html
+0 3 0 49098 2 2
+/gifs/tpmay2006.png
+0 1 0 232170 0 0
+/haiku/1995/bestof95.html
+0 3 0 23865 2 1
+/gifs/tpaug2008.jpg
+1 2 0 117754 0 0
+/haiku/1995/haikujun.html
+0 6 0 13992 5 3
+/fiction/fiction.html
+0 23 0 62215 16 13
+/haiku/1998/haik1198.html
+0 7 0 258132 5 4
+/haiku/1997/haiku497.html
+0 7 0 209265 6 3
+/limerick/1996/nice696.html
+0 3 0 21129 1 3
+/prideandjoy.html
+0 4 0 19548 1 0
+/gifs/tpmar2007.jpg
+1 1 0 51880 0 0
+/limerick/brady/bradyfrm.html
+0 7 0 3276 6 5
+http://www.toastpoint.com/
+0 11 0 5104 11 3
+/fiction/fict97/fict797.html
+0 6 0 29238 2 2
+/limerick/1997/naut997.html
+0 12 0 586487 5 7
+/conthist.html
+0 4 0 9404 1 1
+/gifs/tpaugust2006.jpg
+1 2 0 68838 0 0
+/rapture/rapture.html
+0 42 0 902560 33 2
+/fiction/fict97/fict1297.html
+0 12 0 60780 6 7
+/fiction/fict9596/fic1196.html
+0 6 0 167490 5 4
+/limerick/1998/naut298.html
+0 4 0 194072 4 2
+/whytoastpoint.html
+0 5 0 3025 1 1
+/haiku/1997/haik1097.html
+0 8 0 192440 3 4
+/icons/unknown.gif
+1 1 0 0 0 0
+/haiku/1996/haiku396.html
+0 3 0 53688 2 0
+/fiction/fict399.html
+0 17 0 452517 11 4
+/welcome.html
+0 30 0 12540 16 15
+/index_files/page0005.html
+0 1 0 172525 0 0
+/limerick/1996/nic1296.html
+0 3 0 58377 2 0
+/haiku/1997/haiku997.html
+0 7 0 198261 3 6
+/haiku/haiku199.html
+0 18 0 617166 12 10
+/rapture/bunthorne.gif
+1 24 0 69014 0 0
+/index_files/page0010.html
+0 3 0 135290 1 2
+/limerick/1997/nice497.html
+0 6 0 185496 1 3
+/limerick/naut599.html
+0 28 0 594580 17 14
+/gifs/tpdecember2007.jpg
+1 1 0 21721 0 0
+/fiction/fict98/fict598.html
+0 9 0 153664 6 5
+/limerick/1998/naut798.html
+0 2 0 95164 0 1
+/haiku/1996/haiku896.html
+0 3 0 60834 3 1
+/gifs/ornament.jpg
+1 3 0 3688 0 0
+/limerick/1996/naut396.html
+0 3 0 34922 2 2
+/index_files/image050.gif
+1 2 0 0 0 0
+/icons/text.gif
+1 1 0 0 0 0
+/gifs/tpfeb2008.jpg
+1 1 0 26400 0 0
+/rapture/hagss.html
+0 2 0 1188 0 0
+/limerick/1995/nautaug.html
+0 9 0 71460 4 5
+/index_files/image058.jpg
+1 1 0 0 0 0
+/gifs/happy.jpg
+1 35 0 97185 0 0
+/limerick/1995/nautdec.html
+0 6 0 182580 4 3
+/haiku/goldstar.gif
+1 1 0 0 0 0
+/gifs/quill2.gif
+1 8 0 30100 0 0
+/limerick/1997/nice997.html
+0 9 0 218691 3 4
+/travel/alaska2004.html
+0 2 0 9144 0 0
+/gifs/eric.jpg
+1 16 0 310576 0 0
+/limerick/1998/naut1198.html
+0 3 0 66378 2 1
+/haiku/1995/haikusep.html
+0 6 0 33870 4 5
+/fiction/fict9596/fict596.html
+0 4 0 96140 2 1
+/limerick/1996/naut896.html
+0 6 0 87444 4 4
+/prideforallages.html
+0 14 0 13832 9 7
+/limerick/nautfrm.html
+0 15 0 8220 11 7
+/toastpointtopright.html
+0 135 0 18875 1 1
+/rapture/iolanthe.gif
+1 25 0 64722 0 0
+/limerick/1998/nice298.html
+0 7 0 170513 6 3
+/gifs/tpmay2007.jpg
+1 1 0 45766 0 0
+/limerick/1997/naut197.html
+0 7 0 163476 5 2
+/rapture/mik-lips.gif
+1 23 0 70392 0 0
+/haiku/1998/haiku298.html
+0 8 0 284704 4 4
+/limerick/1997/naut1097.html
+0 5 0 177650 2 2
+/gifs/tpfeb2007.jpg
+1 2 0 69514 0 0
+/haiku/1996/haik1996.html
+0 20 0 32079 12 9
+/fiction/coupthb.gif
+1 1 0 0 0 0
+/fiction/novels/peak2.html
+0 13 0 207415 12 5
+/travel/italy2008.html
+0 6 0 211104 3 2
+/gifs/blank.jpg
+1 26 0 17625 0 0
+/gifs/tpsept2008.jpg
+1 2 0 79420 0 0
+/index_files/image012.jpg
+1 1 0 0 0 0
+/writing/english.html
+0 5 0 20320 2 0
+/limerick/nice599.html
+0 25 0 650825 13 8
+/gifs/paper.gif
+1 9 0 38048 0 0
+/gifs/quill1.gif
+1 9 0 33044 0 0
+/fiction/fict98/fict1098.html
+0 8 0 492808 4 4
+/limerick/limerick.html
+0 71 0 185523 53 29
+/limerick/1998/nice798.html
+0 3 0 55026 2 2
+/haiku/1997/haiku197.html
+0 11 0 384637 5 5
+/limerick/1996/nice396.html
+0 8 0 45456 6 5
+/gifs/star3.gif
+1 10 0 12288 0 0
+/haiku/1995/haikuoct.html
+0 3 0 30270 2 1
+/fiction/fict97/fict497.html
+0 8 0 91392 3 7
+/limerick/1997/naut697.html
+0 8 0 197856 4 6
+/fiction/novels/xmascurl.html
+0 10 0 339570 8 3
+/haiku/1998/haiku798.html
+0 9 0 599752 7 5
+/limerick/1998/nice1198.html
+0 4 0 109224 2 2
+/limerick/1995/niceaug.html
+0 6 0 26934 5 3
+/index_files/page0007.html
+0 1 0 151239 0 0
+/limerick/1995/nicedec.html
+0 6 0 79506 4 1
+/limerick/1996/nau1196.html
+0 2 0 29832 1 0
+/limerick/1995/bestnaut.html
+0 4 0 40988 2 3
+/gifs/tpjune2008.jpg
+1 2 0 30254 0 0
+/gifs/birdumb2.gif
+1 158 0 718794 0 0
+/toastpointtoc.html
+0 137 0 149688 1 1
+/gifs/tpjuly2006b.jpg
+1 2 0 61502 0 0
+/haiku/1997/haiku697.html
+0 6 0 158868 3 2
+/gifs/tpsept2007.jpg
+1 2 0 49038 0 0
+/index_files/image011.jpg
+1 1 0 158770 0 0
+/limerick/1996/nice896.html
+0 17 0 167960 13 9
+/limerick/nicefrm.html
+0 3 0 1671 3 3
+/haiku/moral.html
+0 8 0 37536 8 6
+/limerick/1997/nice1097.html
+0 9 0 166480 5 5
+/fiction/fict97/fict997.html
+0 10 0 42300 5 7
+/fiction/novels/peak3.html
+0 8 0 55248 3 4
+/gifs/samp.jpg
+1 17 0 46512 0 0
+/limerick/1997/nice197.html
+0 13 0 176980 10 8
+/limerick/naut299.html
+0 28 0 623565 21 18
+/fiction/fict98/fict298.html
+0 8 0 300360 4 5
+/limerick/1998/naut498.html
+0 3 0 63892 1 2
+/haiku/1997/haik1297.html
+0 14 0 298428 7 7
+/haiku/1996/haiku596.html
+0 3 0 28137 2 1
+/fiction/fict599.html
+0 19 0 142728 14 13
+/gifs/nakedman.gif
+1 177 0 1345716 0 0
+/links.html
+0 14 0 59528 6 3
+/gifs/pastheaders.html
+0 17 0 20224 11 2
+/fiction/novels/wpeak.jpg
+1 5 0 105722 0 0
+/haiku/haiku399.html
+0 23 0 1729784 17 8
+/gifs/tpjune2007.jpg
+1 2 0 101592 0 0
+/index_files/page0008.html
+0 1 0 142531 0 0
+/gifs/tpsept2006.jpg
+1 1 0 24140 0 0
+/haiku/1996/haik1196.html
+0 2 0 28180 1 0
+/limerick/1997/nice697.html
+0 11 0 203225 6 6
+/index_files/image029.gif
+1 1 0 0 0 0
+/fiction/fict98/fict798.html
+0 8 0 326424 3 4
+/gifs/quill.gif
+1 2 0 4312 0 0
+/limerick/1998/naut998.html
+0 5 0 142172 2 0
+/fiction/fict9596/fict296.html
+0 4 0 50756 1 1
+/gifs/eric as sp.jpg
+1 1 0 0 0 0
+/limerick/1996/naut596.html
+0 8 0 201285 5 6
+/limerick/1995/nautoct.html
+0 7 0 87927 5 2
+/gifs/leopold.jpg
+1 17 0 617744 0 0
+/fiction/novels/peak4.html
+0 18 0 236070 11 13
+/news.html
+0 140 0 2279978 3 8
+/gifs/wumpuspei2005.jpg
+1 3 0 24515 0 0
+/gifs/boobies.gif
+1 180 0 1951180 0 0
+/fiction/fict9596/fict1095.html
+0 5 0 44876 4 2
+/index_files/image017.gif
+1 2 0 593 0 0
+/gifs/tpjune2006.jpg
+1 2 0 117084 0 0
+/gifs/2003halloween2.jpg
+1 1 0 0 0 0
+/limerick/nice299.html
+0 125 0 3459990 113 18
+/fiction/fict9596/fict796.html
+0 6 0 38520 2 3
+/midi/midi.html
+0 8 0 25304 3 3
+/limerick/brady/thebunch.gif
+1 5 0 125658 0 0
+/haiku/1996/bestof96.html
+0 4 0 68552 1 2
+/limerick/1998/nice498.html
+0 8 0 230041 6 5
+/index_files/page0009.html
+0 1 0 149341 0 0
+/fiction/fict97/fict197.html
+0 6 0 103356 3 2
+/limerick/1997/naut397.html
+0 9 0 192915 6 6
+/haiku/1998/haiku498.html
+0 6 0 201696 5 2
+/limerick/1996/lim1996.html
+0 28 0 51800 18 15
+/limerick/1997/naut1297.html
+0 7 0 258930 3 3
+/limerick/1995/nautjuly.html
+0 8 0 24848 5 3
+/rapture/harrypotteryeomen.txt
+0 3 0 3876 0 0
+/gifs/canegiehall081.JPG
+1 2 0 0 0 0
+/ponder.html
+0 11 0 37851 5 3
+/fiction/novels/peak1-2.html
+0 11 0 25322 8 7
+/fiction/fict98/fict1298.html
+0 8 0 306352 6 6
+/rapture/hogwartssorcerer.txt
+0 4 0 51508 0 0
+/limerick/1998/nice998.html
+0 3 0 74136 0 0
+/haiku/1998/haik1098.html
+0 6 0 180030 4 3
+/haiku/1997/haiku397.html
+0 11 0 467401 9 5
+/limerick/1996/nice596.html
+0 8 0 109800 6 5
+/gifs/tpdec2006.jpg
+1 2 0 69936 0 0
+/fiction/fict97/fict697.html
+0 11 0 148390 3 3
+/limerick/1995/niceoct.html
+0 5 0 25035 3 3
+/haiku/1998/haiku998.html
+0 5 0 194435 3 2
+/gifs/mom
+0 18 0 107344 1 0
+/gifs/tpjan2008.jpg
+1 2 0 53572 0 0
+/rapture/sor-well.gif
+1 25 0 59409 0 0
+/fiction/novels/parkey.html
+0 16 0 385845 11 7
+/rapture/hogwartsiolanthe.txt
+0 6 0 69200 0 0
+/gifs/tpoct-nov2008.jpg
+1 1 0 59792 0 0
+/fiction/fict97/fict1197.html
+0 9 0 85981 5 5
+/fiction/fict9596/fic1096.html
+0 9 0 215888 6 5
+/limerick/1998/naut198.html
+0 5 0 152088 3 3
+/haiku/1996/haiku296.html
+0 5 0 80690 2 2
+/icons/back.gif
+1 1 0 0 0 0
+/fiction/fict299.html
+0 11 0 386350 6 6
+/limerick/1996/nic1196.html
+0 6 0 66318 3 2
+/limerick/1997/nice1297.html
+0 8 0 168700 4 3
+/index_files/image004.gif
+1 1 0 820 0 0
+/fiction/novels/soffarm.jpg
+1 2 0 0 0 0
+/limerick/1995/nicejuly.html
+0 6 0 6516 5 3
+/writing/kyw.html
+0 6 0 21456 3 2
+/fiction/fict9596/fict9596.html
+0 14 0 20244 9 11
+/limerick/1997/nice397.html
+0 10 0 139290 8 6
+/limerick/naut499.html
+0 16 0 610608 9 5
+/index_files/image015.gif
+1 2 0 222 0 0
+/fiction/fict98/fict498.html
+0 6 0 146238 4 4
+/gifs/tpjul2008.jpg
+1 2 0 187584 0 0
+/fiction/novels/peak1-3.html
+0 6 0 41736 5 5
+/limerick/1998/naut698.html
+0 4 0 123579 1 2
+/rapture/hogwartsruddigore.txt
+0 4 0 15828 0 0
+/haiku/1996/haiku796.html
+0 5 0 71805 3 2
+/limerick/1996/naut296.html
+0 6 0 182142 3 2
+/gifs/me.jpg
+1 1 0 0 0 0
+/gifs/tpjan2007.jpg
+1 2 0 65190 0 0
+/haiku/haiku599.html
+0 27 0 790672 18 14
+# End Of Table - urls
+# -sites- (monthly)
+66.249.72.110
+0 1 1 6078 1 1236081202
+/fiction/fict97/fict1297.html
+205.188.116.80
+0 1 1 0 1 1237564036
+/limerick/naut199.html
+65.88.88.202
+0 9 7 57450 1 1237568524
+/tpnews.html
+66.249.72.114
+0 1 0 693 0 0
+-
+66.249.72.115
+0 1 1 7546 1 1236080382
+/limerick/brady/brady99.html
+75.93.175.26
+0 7 4 41465 1 1236042398
+/limerick/nice299.html
+69.250.81.205
+0 5 4 55906 1 1236436053
+/limerick/naut199.html
+97.92.189.230
+0 3 1 7798 1 1236717315
+/writing/funny.html
+75.101.246.216
+0 2 1 3215 1 1236993897
+/limerick/docs/formhint.html
+189.69.90.218
+0 2 2 18170 1 1237407192
+/news.html
+79.97.223.177
+0 6 4 56599 1 1237307993
+/limerick/naut199.html
+212.162.130.92
+0 3 3 20732 0 0
+-
+72.44.61.221
+0 24 23 482305 1 1237582545
+/fiction/fict98/fict1298.html
+174.129.181.104
+0 19 18 333143 1 1236516395
+/limerick/nice499.html
+131.123.229.144
+0 7 4 57292 1 1236182474
+/limerick/naut199.html
+32.179.81.241
+0 2 0 1386 0 0
+-
+72.44.37.179
+0 5 4 8159 1 1237403118
+/limerick/1996/lim1996.html
+83.167.62.171
+0 43 21 372520 29 1236926572
+-
+74.165.132.95
+0 5 4 55906 1 1237313018
+/limerick/naut199.html
+83.147.135.243
+0 6 4 56599 1 1236922999
+/limerick/naut199.html
+83.167.62.173
+0 10 6 18582 6 1237006244
+/travel/italy2005.html
+208.96.54.70
+0 1 0 693 0 0
+-
+204.108.96.19
+0 13 13 61192 1 1236880227
+/rapture/rapture.html
+173.25.38.196
+0 4 3 38943 1 1236636068
+/haiku/1997/haiku597.html
+99.149.166.245
+0 8 7 59628 1 1236131223
+/limerick/naut599.html
+208.180.39.16
+0 5 4 55906 1 1237305941
+/limerick/naut199.html
+64.251.52.249
+0 10 8 80158 1 1237299100
+/limerick/nice299.html
+114.111.36.26
+0 8 4 4628 4 1237058284
+/
+219.142.53.20
+0 1 0 693 0 0
+-
+86.8.223.83
+0 5 2 17785 1 1236266533
+/limerick/1996/naut996.html
+69.144.171.190
+0 13 13 61192 1 1236556454
+/rapture/rapture.html
+64.12.116.200
+0 1 1 4698 0 0
+-
+64.12.116.202
+0 3 3 0 1 1236845176
+/limerick/1997/naut1197.html
+174.129.132.201
+0 2 2 928 1 1237381692
+/
+219.142.53.27
+0 1 1 2147 1 1237434045
+/haiku/haiku.html
+194.153.113.18
+0 2 2 0 0 0
+-
+12.216.72.61
+0 4 1 4601 1 1236636303
+/limerick/docs/formhint.html
+99.144.241.44
+0 6 1 56782 1 1237042968
+/limerick/1997/naut997.html
+75.101.201.235
+0 10 8 273834 1 1237030196
+/haiku/haiku199.html
+68.163.54.122
+0 6 4 56599 1 1236807138
+/limerick/naut199.html
+114.111.36.31
+0 2 1 855 1 1236031187
+/toastpointtopleft.html
+65.9.238.210
+0 12 12 58411 1 1236793718
+/rapture/rapture.html
+70.62.50.34
+0 5 1 5294 1 1236948591
+/limerick/docs/formhint.html
+72.94.249.34
+0 2 2 919552 2 1237095104
+/
+98.18.163.4
+0 5 4 40079 1 1237495624
+/limerick/nice299.html
+194.153.113.22
+0 65 64 693 1 1236510818
+/gifs/mom
+207.154.59.124
+0 1 0 0 0 0
+-
+68.36.77.162
+0 6 4 56599 1 1237237272
+/limerick/naut199.html
+65.91.116.33
+0 4 4 35449 1 1237225587
+/limerick/nice499.html
+75.49.249.100
+0 5 4 55906 1 1237317745
+/limerick/naut199.html
+216.21.138.1
+0 4 4 39386 1 1236969062
+/limerick/nice299.html
+198.54.202.250
+0 5 3 16238 0 0
+-
+66.249.71.101
+0 1 0 693 1 1237621474
+-
+58.164.162.121
+0 6 4 56599 1 1236925600
+/limerick/naut199.html
+24.227.34.146
+0 5 4 40079 1 1237295701
+/limerick/nice299.html
+65.169.45.251
+0 6 5 79001 1 1237320091
+/limerick/naut299.html
+69.177.222.1
+0 5 4 55906 1 1236703697
+/limerick/naut199.html
+66.109.51.49
+0 5 4 55906 1 1237464180
+/limerick/naut199.html
+68.108.169.61
+0 6 5 76197 1 1235896387
+/gifs/mom
+82.122.17.3
+0 8 8 86516 1 1237196455
+/fiction/fict399.html
+72.77.122.216
+0 5 4 55906 1 1237314189
+/limerick/naut199.html
+84.246.154.150
+0 3 3 11256 0 0
+-
+199.173.226.229
+0 4 4 55213 1 1237274225
+/limerick/naut199.html
+24.105.177.17
+0 1 1 464 1 1237153529
+/
+86.138.57.27
+0 5 4 37982 1 1235930489
+/limerick/nice599.html
+65.110.114.100
+0 1 1 28130 1 1236684384
+/limerick/nice299.html
+98.246.80.10
+0 5 4 40079 1 1236126465
+/limerick/nice299.html
+79.72.251.203
+0 5 4 37262 1 1235886964
+/limerick/nice199.html
+190.24.238.220
+0 4 4 55213 1 1235931795
+/limerick/naut199.html
+196.211.201.130
+0 5 4 55906 1 1236148724
+/limerick/naut199.html
+72.30.142.126
+0 2 0 1386 0 0
+-
+205.154.150.238
+0 4 4 52974 1 1236701755
+/limerick/1997/nice297.html
+74.39.3.146
+0 27 13 61885 1 1236286117
+/rapture/rapture.html
+72.44.35.139
+0 2 1 13561 1 1237432072
+/fiction/fict499.html
+82.166.132.87
+0 3 2 17919 1 1236910894
+/limerick/1996/nice496.html
+65.55.209.242
+0 2 1 23788 1 1237433342
+/limerick/naut299.html
+209.183.51.14
+0 3 3 47479 1 1237030054
+/limerick/naut199.html
+65.55.209.245
+0 5 3 42432 2 1237503973
+/limerick/naut199.html
+65.55.209.246
+0 2 0 1256 1 1236817200
+-
+209.183.51.16
+0 1 1 7734 0 0
+-
+65.55.209.247
+0 2 1 8561 1 1236016051
+/bio.html
+76.175.4.73
+0 5 4 40079 1 1237209028
+/limerick/nice299.html
+24.123.191.157
+0 5 4 55906 1 1237321701
+/limerick/naut199.html
+71.113.204.185
+0 4 4 55213 1 1237558181
+/limerick/naut199.html
+67.202.21.242
+0 4 1 2543 1 1236999325
+-
+69.153.101.211
+0 7 4 57292 1 1235958786
+/limerick/naut199.html
+69.177.111.2
+0 5 4 37262 1 1236723593
+/limerick/nice199.html
+67.41.74.24
+0 8 5 77583 1 1236125252
+/gifs/mom
+143.115.159.54
+0 4 4 36569 1 1236872220
+/limerick/nice199.html
+72.178.248.129
+0 5 4 48358 1 1236916615
+/limerick/1998/naut198.html
+82.43.112.99
+0 2 2 7884 1 1236583974
+/haiku/haiku.html
+124.82.83.177
+0 4 2 28963 1 1235946592
+/fiction/novels/parkey.html
+65.55.209.250
+0 2 1 1241 1 1237478438
+/limerick/nautfrm.html
+72.36.182.226
+0 1 1 68017 1 1236087594
+/haiku/haiku299.html
+174.129.119.190
+0 3 2 8679 1 1237456168
+/limerick/docs/fletcher.html
+65.55.209.252
+0 17 2 14061 9 1237427270
+-
+174.129.85.59
+0 14 13 88009 1 1236772461
+/gifs/pastheaders.html
+65.55.209.254
+0 2 1 29448 1 1236584790
+/limerick/1996/naut596.html
+76.167.96.82
+0 6 4 56599 1 1236630801
+/limerick/naut199.html
+174.129.176.216
+0 6 5 36667 1 1236873616
+/limerick/nautfrm.html
+86.151.143.169
+0 5 4 37262 1 1237035248
+/limerick/nice199.html
+129.118.64.110
+0 6 4 37001 1 1236251218
+/limerick/1998/nice298.html
+82.19.124.65
+0 4 4 55213 1 1236859001
+/limerick/naut199.html
+71.141.118.25
+0 36 36 77292 2 1236697459
+/haiku/haiku.html
+64.8.33.214
+0 5 3 13098 0 0
+-
+76.193.22.181
+0 4 4 55213 1 1236300412
+/limerick/naut199.html
+81.165.118.28
+0 1 1 15955 1 1236681511
+/fiction/novels/peak2.html
+204.169.65.4
+0 7 5 68902 1 1237202303
+/limerick/nice299.html
+74.79.84.78
+0 15 14 65789 1 1236712574
+/rapture/rapture.html
+12.49.94.253
+0 4 3 17661 1 1236622414
+/limerick/limerick.html
+75.0.2.196
+0 6 4 56599 1 1236988106
+/limerick/naut199.html
+216.180.19.168
+0 4 3 17661 1 1236752967
+/limerick/limerick.html
+65.126.59.183
+0 7 6 55311 1 1236266931
+/limerick/nice399.html
+66.30.65.205
+0 13 12 96561 1 1236594943
+/tpnews.html
+71.7.252.226
+0 3 2 16480 1 1237043256
+/limerick/1995/nautnov.html
+71.70.150.101
+0 6 4 56599 1 1237302162
+/limerick/naut199.html
+74.233.237.136
+0 14 13 61885 1 1237406370
+/rapture/rapture.html
+79.176.228.3
+0 5 4 55906 1 1236512988
+/limerick/naut199.html
+72.44.54.55
+0 4 3 4227 1 1236699329
+/limerick/nautfrm.html
+65.55.165.41
+0 6 6 27976 1 1236747883
+/tpnews.html
+124.176.98.49
+0 5 4 55906 1 1236010633
+/limerick/naut199.html
+68.99.143.49
+0 5 4 40079 1 1237301017
+/limerick/nice299.html
+174.129.106.149
+0 5 4 8159 1 1237075616
+/limerick/1996/lim1996.html
+80.177.109.25
+0 5 4 40079 1 1236336547
+/limerick/nice299.html
+76.189.0.246
+0 6 3 20319 1 1237243225
+/limerick/1995/nicedec.html
+207.200.116.5
+0 1 1 19541 1 1237298879
+/limerick/1997/nice1197.html
+207.200.116.7
+0 1 1 13933 1 1237221538
+/limerick/1995/nautnov.html
+119.63.194.130
+0 3 2 626 3 1237164254
+/
+24.131.57.179
+0 6 4 56599 1 1237334034
+/limerick/naut199.html
+122.108.34.23
+0 4 4 36569 1 1237081954
+/limerick/nice199.html
+72.44.34.141
+0 19 18 251664 1 1236954325
+/fiction/novels/peak3.html
+71.239.116.22
+0 14 13 61885 1 1236715752
+/rapture/rapture.html
+66.235.124.54
+0 2 1 26416 1 1237372824
+/fiction/novels/parkey.html
+66.235.124.56
+0 6 3 119949 3 1237554678
+/haiku/haiku299.html
+66.235.124.57
+0 2 1 16065 1 1237473170
+/limerick/1996/nice496.html
+92.204.20.35
+0 5 4 84197 1 1236215265
+/haiku/haiku399.html
+66.235.124.58
+0 5 3 120679 3 1237473180
+/fiction/novels/peak2.html
+68.34.45.245
+0 3 3 11256 0 0
+-
+208.131.168.83
+0 11 7 58836 1 1237228226
+/tpnews.html
+221.219.119.59
+0 1 1 2147 1 1236751186
+/haiku/haiku.html
+74.184.231.208
+0 3 2 13021 1 1236048459
+/limerick/brady/brady97.html
+24.13.47.57
+0 5 2 12508 1 1236189138
+/haiku/moral.html
+76.85.193.125
+0 6 5 76197 1 1236032332
+/gifs/mom
+80.2.126.208
+0 4 3 21054 1 1236502292
+/limerick/1996/nice496.html
+72.44.54.73
+0 4 3 16517 1 1237319164
+/fiction/fict499.html
+174.129.81.244
+0 6 5 28205 1 1236747989
+/tpnews.html
+69.19.14.16
+0 5 4 40079 1 1237257595
+/limerick/nice299.html
+91.143.180.38
+0 6 4 37001 1 1236590273
+/limerick/1998/nice298.html
+65.81.81.200
+0 1 1 28130 1 1237148401
+/limerick/nice299.html
+208.80.195.34
+0 4 4 1856 4 1237118815
+/
+208.80.195.36
+0 2 2 928 2 1237218426
+/
+98.227.187.160
+0 5 4 40079 1 1237135311
+/limerick/nice299.html
+208.80.195.38
+0 3 3 1392 3 1236956283
+/
+130.49.162.58
+0 5 4 37262 1 1237318902
+/limerick/nice199.html
+68.2.126.152
+0 5 4 55906 1 1237161322
+/limerick/naut199.html
+74.234.173.66
+0 1 1 3904 0 0
+-
+76.0.166.249
+0 9 4 55906 1 1236079860
+/limerick/naut199.html
+62.121.70.233
+0 2 2 85996 2 1237025590
+/limerick/1997/naut1197.html
+69.19.14.20
+0 1 1 1854 0 0
+-
+122.131.137.71
+0 4 3 21054 1 1236303212
+/limerick/1996/nice496.html
+208.111.154.15
+0 159 23 392401 47 1237557547
+/limerick/1996/nic1196.html
+65.113.125.205
+0 5 4 55906 1 1236871113
+/limerick/naut199.html
+208.111.154.16
+0 100 16 357474 26 1237546099
+/limerick/1995/nautjune.html
+71.231.50.238
+0 3 2 65604 1 1236116836
+/limerick/naut199.html
+128.100.84.5
+0 6 4 40079 1 1237292108
+/limerick/nice299.html
+203.110.240.22
+0 5 5 65144 1 1236206372
+/welcome.html
+75.86.145.51
+0 5 4 55906 1 1236130237
+/limerick/naut199.html
+24.17.5.131
+0 3 2 10487 1 1236534965
+/limerick/1995/nautaug.html
+208.80.195.40
+0 1 1 464 1 1237111480
+/
+208.80.195.41
+0 1 1 464 1 1237198933
+/
+208.80.195.42
+0 3 3 1392 3 1237628560
+/
+69.37.180.85
+0 9 6 56697 1 1236866826
+/limerick/nice399.html
+24.2.107.38
+0 5 4 55906 1 1236887414
+/limerick/naut199.html
+71.178.133.177
+0 12 8 113198 2 1237327451
+/limerick/naut199.html
+208.80.195.45
+0 6 6 2784 6 1237636634
+/
+208.80.195.46
+0 5 5 2320 5 1237415967
+/
+67.202.31.252
+0 19 18 92385 1 1236812447
+/writing/computer.html
+208.80.195.47
+0 6 6 2784 6 1237522330
+/
+208.80.195.49
+0 2 2 928 2 1237531287
+/
+76.179.164.107
+0 5 4 55906 1 1236783606
+/limerick/naut199.html
+164.58.189.249
+0 10 8 71569 2 1236597676
+/limerick/nice299.html
+68.99.218.82
+0 5 4 55906 1 1237420275
+/limerick/naut199.html
+208.111.154.25
+0 1 0 693 0 0
+-
+76.204.25.238
+0 4 3 21425 0 0
+-
+208.111.154.27
+0 1 0 693 0 0
+-
+208.111.154.28
+0 2 0 693 1 1236774034
+/fiction/fict97/fict1297.html
+208.111.154.29
+0 6 3 64950 4 1236602575
+/limerick/1998/naut998.html
+174.129.80.227
+0 2 1 1157 1 1236732083
+/
+68.188.228.205
+0 6 4 56599 1 1237114316
+/limerick/naut199.html
+70.88.222.25
+0 6 6 27976 1 1236322277
+/tpnews.html
+75.173.29.142
+0 13 12 75373 1 1236378350
+/contests.html
+84.65.62.38
+0 4 3 21054 1 1237442965
+/limerick/1996/nice496.html
+74.6.8.119
+0 1 0 693 0 0
+-
+84.70.60.150
+0 14 12 96561 1 1237295887
+/
+68.231.38.85
+0 3 2 8577 1 1237153383
+/haiku/haiku.html
+140.247.152.24
+0 14 13 61885 1 1237085643
+/rapture/rapture.html
+58.169.201.74
+0 3 2 13021 1 1235918859
+/limerick/brady/brady97.html
+208.80.195.50
+0 1 1 464 1 1236936505
+/
+208.80.195.51
+0 4 4 1856 4 1237510318
+/
+208.80.195.52
+0 4 4 1856 4 1237404241
+/
+208.74.247.249
+0 4 3 18464 1 1236509740
+/limerick/1995/nautaug.html
+208.80.195.54
+0 1 1 464 1 1237424972
+/
+99.241.51.75
+0 3 2 18685 1 1236107533
+/haiku/1996/haiku296.html
+71.131.29.206
+0 6 5 64272 1 1237132704
+/limerick/nice499.html
+83.244.216.10
+0 4 3 21054 1 1237276621
+/limerick/1996/nice496.html
+68.194.238.55
+0 15 14 65789 1 1236719311
+/rapture/rapture.html
+98.228.10.84
+0 1 1 464 1 1236896838
+http://www.toastpoint.com/
+71.94.34.82
+0 7 4 41465 1 1236168782
+/limerick/nice299.html
+76.121.103.187
+0 5 4 77006 1 1237345075
+/haiku/haiku299.html
+67.202.30.224
+0 6 6 12882 3 1237407254
+/haiku/haiku.html
+208.111.154.30
+0 1 0 693 0 0
+-
+208.115.138.254
+0 4 4 113906 4 1237325276
+/limerick/brady/brady98.html
+24.116.214.170
+0 4 4 55213 1 1237300901
+/limerick/naut199.html
+208.111.154.31
+0 2 0 1386 0 0
+-
+97.123.11.143
+0 2 1 68710 1 1235943576
+/haiku/haiku299.html
+208.111.154.33
+0 2 0 693 1 1235875649
+/fiction/fict97/fict1197.html
+208.111.154.34
+0 1 0 693 0 0
+-
+204.10.196.31
+0 6 5 65392 1 1237471883
+/limerick/nice199.html
+74.93.232.129
+0 3 3 20361 1 1236883204
+/limerick/1996/nice496.html
+217.169.46.98
+0 7 7 123607 5 1237285317
+/limerick/naut199.html
+69.119.115.159
+0 2 2 2559 0 0
+-
+209.169.81.70
+0 5 4 40079 1 1237230825
+/limerick/nice299.html
+79.191.233.153
+0 18 0 12474 0 0
+-
+66.235.124.99
+0 2 1 34650 1 1236504215
+/fiction/novels/xmascurl.html
+66.102.186.10
+0 1 1 34481 1 1237324832
+/limerick/naut199.html
+66.102.186.12
+0 1 1 11144 0 0
+-
+190.71.210.33
+0 7 6 1087824 1 1237478741
+/
+66.249.65.225
+0 95 79 1433109 50 1237606282
+/limerick/brady/brady96.html
+66.249.65.226
+0 69 61 986458 41 1237591682
+/limerick/1997/naut797.html
+66.249.65.227
+0 68 56 1200437 45 1237600413
+/limerick/naut599.html
+66.249.65.228
+0 75 68 1041240 41 1237595616
+/limerick/1997/naut597.html
+122.164.29.229
+0 5 4 55906 1 1235971389
+/limerick/naut199.html
+66.102.186.18
+0 1 1 7734 0 0
+-
+66.249.65.229
+0 57 49 860011 41 1237595427
+/limerick/1997/naut697.html
+66.249.71.39
+0 1 0 693 0 0
+-
+216.64.172.165
+0 2 2 9289 1 1236771550
+/limerick/1995/bestnice.html
+66.69.249.78
+0 9 8 79465 2 1237227401
+/limerick/nice299.html
+174.129.187.48
+0 4 3 11617 1 1237556835
+/haiku/haikufrm.html
+65.55.231.59
+0 2 1 35112 0 0
+-
+64.106.83.130
+0 7 5 45747 1 1235869022
+/haiku/haiku599.html
+72.187.242.244
+0 5 4 40079 1 1237548374
+/limerick/nice299.html
+66.249.65.230
+0 70 60 844316 35 1237600238
+/limerick/nice499.html
+66.249.65.231
+0 71 63 1042694 39 1237584035
+/haiku/1998/haik1098.html
+66.102.186.21
+0 1 1 1854 0 0
+-
+169.139.224.200
+0 10 9 90365 1 1236080860
+/limerick/naut599.html
+66.249.65.232
+0 64 53 874800 34 1237597579
+/fiction/fict97/fict597.html
+66.249.65.233
+0 59 45 753665 32 1237598076
+/fiction/fict599.html
+66.249.65.234
+0 72 60 1137720 37 1237595442
+/limerick/1997/naut197.html
+66.249.65.235
+0 66 59 1041928 36 1237592286
+/limerick/1997/naut497.html
+75.101.243.246
+0 19 18 251664 1 1236873553
+/fiction/novels/peak3.html
+66.249.65.237
+0 77 69 1349711 47 1237592836
+/limerick/1997/nice797.html
+66.249.71.42
+0 1 1 2138 1 1237679988
+/haiku/1997/haik1997.html
+69.136.121.187
+0 6 4 56599 1 1237264453
+/limerick/naut199.html
+24.152.140.109
+0 3 1 3908 1 1236716786
+/limerick/docs/formhint.html
+66.249.65.239
+0 78 70 1557449 51 1237606505
+/fiction/novels/peak.html
+24.253.243.7
+0 5 4 77006 1 1236306262
+/haiku/haiku299.html
+24.110.45.237
+0 10 8 111812 2 1237467221
+/limerick/naut199.html
+65.55.231.66
+0 3 2 32708 1 1236035719
+/gifs/pastheaders.html
+94.193.195.159
+0 1 1 464 1 1236252484
+http://www.toastpoint.com/
+97.118.94.220
+0 6 6 58509 1 1236374345
+/haiku/haiku599.html
+66.249.65.240
+0 79 69 1468730 46 1237607734
+/fiction/fict499.html
+24.185.47.39
+0 13 13 61192 1 1236622494
+/rapture/rapture.html
+66.249.65.241
+0 60 51 793935 31 1237591682
+-
+66.249.65.242
+0 65 53 852555 37 1237598089
+/limerick/brady/brady99.html
+24.62.42.166
+0 12 9 85880 1 1236184353
+/limerick/naut399.html
+66.249.65.244
+0 67 57 858300 45 1237592282
+/haiku/1995/1995.html
+66.249.71.51
+0 1 1 5576 1 1237621827
+/limerick/docs/fletcher.html
+66.249.71.52
+0 1 1 2147 1 1237678100
+/haiku/haiku.html
+70.196.237.11
+0 5 4 55906 1 1236809916
+/limerick/naut199.html
+66.249.71.54
+0 1 0 693 0 0
+-
+66.249.71.55
+0 1 0 693 0 0
+-
+89.5.0.204
+0 7 7 56064 1 1236193740
+/tpnews.html
+8.21.4.254
+0 1 1 19541 1 1236260051
+/limerick/1997/nice1197.html
+65.55.108.134
+0 3 2 41130 1 1236090158
+/gifs/pastheaders.html
+81.52.143.15
+0 34 25 582291 25 1237460441
+/limerick/nice399.html
+81.52.143.16
+0 21 17 467149 18 1237466656
+/limerick/1998/naut598.html
+67.217.15.170
+0 3 3 20732 0 0
+-
+207.216.7.66
+0 4 3 21054 1 1236301031
+/limerick/1996/nice496.html
+173.22.132.165
+0 2 2 7884 1 1236697458
+/haiku/haiku.html
+173.16.34.48
+0 1 1 464 1 1236005956
+http://www.toastpoint.com/
+76.236.155.144
+0 3 3 52037 1 1235911588
+/limerick/brady/brady98.html
+76.104.227.245
+0 5 4 40079 1 1236639685
+/limerick/nice299.html
+148.61.245.21
+0 3 1 7798 1 1236541915
+/writing/funny.html
+58.179.122.139
+0 7 4 32876 1 1237235928
+/limerick/1997/nice1197.html
+64.12.116.12
+0 1 1 28130 1 1237412967
+/limerick/nice299.html
+174.129.89.196
+0 2 1 1241 1 1237460466
+/limerick/nautfrm.html
+65.55.231.82
+0 5 4 98512 2 1236096796
+/gifs/pastheaders.html
+208.80.216.26
+0 7 5 38814 1 1237303345
+/limerick/1996/naut996.html
+81.52.143.26
+0 18 15 166345 17 1237453626
+/prideforallages.html
+216.145.16.235
+0 1 1 28088 0 0
+-
+216.145.16.236
+0 2 2 8456 1 1235959270
+/tpnews.html
+216.145.16.237
+0 4 4 19520 1 1235959269
+/news.html
+216.80.68.195
+0 5 4 55906 1 1236711777
+/limerick/naut199.html
+82.6.115.51
+0 5 4 55906 1 1236453641
+/limerick/naut199.html
+81.52.143.29
+0 5 3 137686 5 1237560883
+/limerick/1998/nice598.html
+65.55.108.148
+0 3 2 36925 1 1236027415
+/gifs/pastheaders.html
+218.18.172.105
+0 1 1 68017 1 1236894962
+/haiku/haiku299.html
+207.241.227.84
+0 1 0 693 0 0
+-
+97.125.197.126
+0 5 4 40079 1 1236532933
+/limerick/nice299.html
+70.143.29.93
+0 7 5 84384 1 1237115346
+/limerick/1996/naut296.html
+75.77.47.46
+0 14 13 61885 1 1237483551
+/rapture/rapture.html
+65.55.231.101
+0 2 1 51489 0 0
+-
+81.52.143.30
+0 7 7 81160 7 1237368376
+/fiction/fict599.html
+81.52.143.31
+0 35 33 219365 8 1237501572
+/tpnews.html
+81.52.143.32
+0 2 2 27450 2 1237348751
+/limerick/1996/nice596.html
+65.55.231.106
+0 2 1 35450 0 0
+-
+81.52.143.33
+0 4 4 53834 4 1237336447
+/limerick/naut599.html
+81.52.143.34
+0 14 11 108939 13 1237488971
+/welcome.html
+209.183.55.25
+0 1 1 11144 0 0
+-
+63.227.129.208
+0 5 4 55906 1 1236950450
+/limerick/naut199.html
+81.52.143.35
+0 13 11 114632 11 1237521589
+/haiku/moral.html
+81.52.143.36
+0 11 6 144679 9 1237566536
+-
+81.52.143.37
+0 4 3 2337 3 1237545922
+/limerick/nautfrm.html
+156.74.250.7
+0 5 5 75504 1 1236004411
+/gifs/mom
+208.36.144.6
+0 3 0 2079 0 0
+-
+208.36.144.8
+0 4 0 2772 0 0
+-
+76.121.142.51
+0 8 7 56757 1 1236025953
+/toastpointtopright.html
+64.198.214.231
+0 5 4 55906 1 1237466873
+/limerick/naut199.html
+125.69.126.214
+0 5 4 55906 1 1237349510
+/limerick/naut199.html
+214.4.253.97
+0 4 4 39386 1 1236599013
+/limerick/nice299.html
+65.55.231.112
+0 3 2 41667 1 1236066552
+/gifs/pastheaders.html
+71.54.198.196
+0 6 4 40772 1 1236206531
+/limerick/nice299.html
+65.55.108.160
+0 3 2 21751 1 1236090010
+/gifs/pastheaders.html
+71.198.84.8
+0 6 5 76197 1 1236123788
+/gifs/mom
+65.55.231.115
+0 2 1 22937 0 0
+-
+71.110.67.224
+0 5 4 55906 1 1237328244
+/limerick/naut199.html
+124.83.159.160
+0 1 0 693 0 0
+-
+77.28.130.109
+0 6 4 84890 1 1236452618
+/haiku/haiku399.html
+72.83.205.129
+0 6 4 39948 1 1236721274
+/limerick/1998/nice1198.html
+66.120.226.84
+0 5 4 40079 1 1236883736
+/limerick/nice299.html
+24.58.44.223
+0 8 6 101550 2 1237417022
+/haiku/1997/haiku397.html
+99.55.88.3
+0 5 4 55906 1 1237311308
+/limerick/naut199.html
+220.255.7.218
+0 1 1 4300 0 0
+-
+72.158.223.99
+0 6 5 59620 1 1236874704
+/limerick/1997/nice1197.html
+64.194.104.235
+0 4 4 33118 1 1236982788
+/limerick/1996/nau1096.html
+165.166.69.60
+0 5 4 31490 1 1237331028
+/limerick/1997/nice1197.html
+67.202.61.10
+0 5 4 8159 1 1236402808
+/limerick/1998/lim1998.html
+64.149.38.220
+0 6 3 19047 1 1236373048
+/limerick/limerick.html
+65.55.231.120
+0 2 1 33288 0 0
+-
+65.55.108.170
+0 2 1 94485 0 0
+-
+118.94.101.175
+0 4 4 55213 1 1236044281
+/limerick/naut199.html
+65.55.231.126
+0 3 2 57759 1 1236046512
+/gifs/pastheaders.html
+137.123.153.38
+0 5 4 40079 1 1237290296
+/limerick/nice299.html
+124.83.159.172
+0 1 0 563 1 1236664648
+-
+216.19.219.71
+0 2 2 7884 1 1237066800
+/haiku/haiku.html
+93.97.169.18
+0 1 1 464 1 1237530241
+/
+71.142.101.120
+0 9 5 58965 1 1236924765
+/limerick/naut199.html
+81.77.160.38
+0 5 4 40079 1 1237116429
+/limerick/nice299.html
+125.214.153.136
+0 1 1 4252 1 1236111900
+/links.html
+75.187.252.176
+0 6 4 56599 1 1236733181
+/limerick/naut199.html
+68.60.247.68
+0 7 4 41465 1 1237231231
+/limerick/nice299.html
+72.220.213.254
+0 4 4 55213 1 1236028733
+/limerick/naut199.html
+64.1.215.164
+0 6 0 4158 0 0
+-
+67.220.101.135
+0 2 0 1256 1 1236339101
+-
+58.211.75.8
+0 1 1 25723 1 1237135873
+/fiction/novels/parkey.html
+74.231.185.34
+0 1 1 28130 1 1236944736
+/limerick/nice299.html
+82.166.163.13
+0 1 1 2522 1 1236048340
+/limerick/docs/formhint.html
+174.129.88.193
+0 1 1 919088 1 1237412304
+/
+222.231.42.196
+0 7 6 28669 1 1237150662
+/toastpointtoc.html
+71.193.202.183
+0 3 2 6807 1 1237154088
+/limerick/1995/nautmay.html
+72.9.118.19
+0 5 4 55906 1 1236037309
+/limerick/naut199.html
+65.31.44.236
+0 3 2 16480 1 1237252761
+/limerick/1995/nautnov.html
+87.65.195.191
+0 7 4 38648 1 1236268262
+/limerick/nice199.html
+60.225.225.145
+0 6 4 77699 1 1236358624
+/haiku/haiku299.html
+69.29.32.172
+0 15 13 61885 1 1237151218
+/rapture/rapture.html
+62.49.163.113
+0 6 4 56599 1 1237283268
+/limerick/naut199.html
+67.49.169.127
+0 5 4 40079 1 1237380854
+/limerick/nice299.html
+72.30.78.231
+0 10 6 93570 5 1236348858
+/fiction/novels/peak2.html
+64.126.161.194
+0 6 4 40772 1 1237563058
+/limerick/nice299.html
+196.25.255.250
+0 1 0 693 0 0
+-
+67.167.65.47
+0 8 4 79085 1 1236834785
+/haiku/haiku299.html
+71.173.213.61
+0 1 1 6412 1 1237304471
+/writing/funny.html
+24.7.142.252
+0 6 5 76197 1 1236178615
+/gifs/mom
+71.111.148.217
+0 6 5 69839 1 1237063119
+/limerick/naut199.html
+195.199.153.230
+0 5 4 37262 1 1236921207
+/limerick/nice199.html
+74.95.200.253
+0 7 7 56064 1 1237246722
+/toastpointtopright.html
+12.216.7.81
+0 4 4 23495 1 1236900356
+/limerick/1996/naut996.html
+66.100.26.80
+0 5 4 55906 1 1237295957
+/limerick/naut199.html
+66.130.15.246
+0 8 4 26267 1 1237362398
+/limerick/1996/naut996.html
+98.247.218.63
+0 4 4 55213 1 1237312695
+/limerick/naut199.html
+71.37.88.6
+0 7 6 50252 1 1236346630
+/limerick/nice599.html
+75.181.123.177
+0 8 7 56757 1 1236413642
+/tpnews.html
+98.218.4.15
+0 4 1 4601 1 1236630620
+/limerick/docs/formhint.html
+61.247.221.86
+0 2 1 1157 1 1237333270
+/
+204.19.199.102
+0 3 1 18686 0 0
+-
+61.247.221.87
+0 4 2 24414 2 1237598126
+/rapture/rapture.html
+66.197.155.101
+0 8 8 7500 1 1236076591
+/
+61.247.221.88
+0 2 1 4945 1 1236893213
+/links.html
+61.247.221.89
+0 2 1 1259 1 1237422431
+/wumpus.html
+69.140.74.49
+0 6 5 76197 1 1236343943
+/gifs/mom
+76.101.3.156
+0 4 3 16611 1 1236871812
+/limerick/1996/nice796.html
+64.12.116.80
+0 1 1 34481 1 1237116070
+/limerick/naut199.html
+75.143.172.35
+0 5 4 40079 1 1237289170
+/limerick/nice299.html
+119.63.193.52
+0 1 0 693 0 0
+-
+61.247.221.90
+0 2 1 2840 1 1236827132
+/haiku/haiku.html
+61.247.221.92
+0 2 1 23257 1 1236642134
+/rapture/rapture.html
+61.247.221.93
+0 2 1 1259 1 1236289534
+/wumpus.html
+152.130.15.14
+0 10 9 64450 1 1237551545
+/ponder.html
+216.183.81.221
+0 103 78 680304 12 1237488845
+/tpnews.html
+68.105.237.60
+0 2 1 4597 0 0
+-
+195.128.18.18
+0 1 1 919088 1 1235981424
+/
+81.152.55.112
+0 7 3 23133 1 1236183308
+/limerick/1996/nice496.html
+91.85.233.1
+0 5 4 55906 1 1236948269
+/limerick/naut199.html
+205.178.184.152
+0 2 2 7868 1 1236521136
+/bio.html
+205.178.184.153
+0 6 5 1843097 3 1236521167
+/photo.html
+205.178.184.155
+0 12 11 52321 1 1236521144
+/contests.html
+91.98.202.203
+0 5 4 84197 1 1237115398
+/haiku/haiku399.html
+207.197.112.200
+0 5 4 40079 1 1236088117
+/limerick/nice299.html
+207.46.92.16
+0 1 1 4704 0 0
+-
+207.46.92.19
+0 1 1 1854 0 0
+-
+76.110.243.30
+0 8 4 57985 1 1236091331
+/limerick/naut199.html
+71.76.25.82
+0 5 4 40079 1 1237291088
+/limerick/nice299.html
+12.163.104.253
+0 5 4 55906 1 1237553301
+/limerick/naut199.html
+70.137.145.37
+0 5 4 55906 1 1237234321
+/limerick/naut199.html
+170.211.179.126
+0 4 4 39386 1 1236945949
+/limerick/nice299.html
+72.44.37.231
+0 2 1 3306 1 1236386622
+/limerick/limerick.html
+68.84.72.102
+0 6 4 56599 1 1236771129
+/limerick/naut199.html
+68.5.55.121
+0 5 4 40079 1 1237224953
+/limerick/nice299.html
+66.249.85.84
+0 3 3 15918 1 1237371085
+/limerick/1996/nice796.html
+74.6.17.151
+0 1 0 693 0 0
+-
+199.216.95.253
+0 5 4 40079 1 1237289949
+/limerick/nice299.html
+217.150.124.34
+0 4 4 35449 1 1237271331
+/limerick/nice499.html
+24.143.236.229
+0 4 3 52730 1 1236660567
+/limerick/brady/brady98.html
+172.131.157.238
+0 3 3 16968 1 1236169693
+/limerick/limerick.html
+64.132.1.195
+0 10 8 80158 1 1236784876
+/limerick/nice299.html
+66.75.35.200
+0 5 4 55906 1 1237311708
+/limerick/naut199.html
+81.141.17.81
+0 5 4 55906 1 1237039463
+/limerick/naut199.html
+67.90.90.34
+0 5 4 40079 1 1237295387
+/limerick/nice299.html
+208.100.219.179
+0 3 2 8577 1 1236810751
+/haiku/haiku.html
+207.235.214.205
+0 5 4 55906 1 1236602245
+/limerick/naut199.html
+150.204.39.17
+0 6 6 63204 1 1236713534
+/fiction/fict399.html
+58.110.249.69
+0 5 4 40079 1 1236144802
+/limerick/nice299.html
+149.254.219.33
+0 1 1 13933 1 1237376332
+/limerick/1995/nautnov.html
+24.66.15.13
+0 4 4 39386 1 1236047245
+/limerick/nice299.html
+24.56.25.158
+0 1 1 74969 1 1235913371
+/haiku/1998/haiku798.html
+24.93.173.228
+0 9 7 57450 1 1237152749
+/news.html
+207.172.254.21
+0 5 4 55906 1 1237307880
+/limerick/naut199.html
+38.104.1.5
+0 13 12 132261 1 1236085444
+/gifs/mom
+63.214.229.104
+0 3 3 29823 1 1236132940
+/limerick/1997/naut797.html
+66.99.167.10
+0 5 4 31490 1 1236176071
+/limerick/1997/nice1197.html
+74.6.22.91
+0 1 0 693 0 0
+-
+204.14.243.154
+0 5 4 55906 1 1237325040
+/limerick/naut199.html
+217.212.224.182
+0 3 2 115821 3 1237228463
+/limerick/1997/nice1297.html
+174.129.182.29
+0 3 2 11083 1 1237548564
+/bio.html
+217.212.224.183
+0 3 0 2079 0 0
+-
+208.115.111.245
+0 3 0 2079 0 0
+-
+86.149.106.162
+0 2 0 1386 0 0
+-
+74.6.17.185
+0 7 5 111300 5 1237631808
+/travel/italy2008.html
+205.56.145.34
+0 4 4 55213 1 1237229753
+/limerick/naut199.html
+68.228.8.2
+0 4 4 76313 1 1237375044
+/haiku/haiku299.html
+74.72.209.3
+0 16 12 58724 2 1237655496
+/tpnews.html
+83.220.193.201
+0 5 4 40079 1 1236604997
+/limerick/nice299.html
+68.37.105.8
+0 7 4 57292 1 1237493367
+/limerick/naut199.html
+174.36.52.98
+0 1 1 15955 1 1236545956
+/fiction/novels/peak2.html
+98.176.78.39
+0 3 2 10524 1 1235936564
+/limerick/1995/nautsept.html
+207.236.104.186
+0 4 4 55213 1 1236943444
+/limerick/naut199.html
+71.63.77.209
+0 4 4 39386 1 1237315449
+/limerick/nice299.html
+174.129.125.30
+0 2 1 16648 1 1236846183
+/fiction/novels/peak2.html
+122.173.248.114
+0 1 1 464 1 1237377286
+/
+207.200.116.10
+0 2 2 3708 0 0
+-
+208.80.194.122
+0 1 1 464 1 1235934170
+/
+24.225.92.87
+0 3 2 16480 1 1236455844
+/limerick/1995/nautnov.html
+80.175.243.41
+0 2 2 7884 1 1237520740
+/haiku/haiku.html
+173.23.109.187
+0 2 2 40024 1 1236017869
+/haiku/haiku199.html
+86.209.102.166
+0 5 4 55906 1 1237020429
+/limerick/naut199.html
+208.53.91.94
+0 3 3 49032 1 1237148723
+/rapture/rapture.html
+86.41.132.129
+0 5 4 55906 1 1237535759
+/limerick/naut199.html
+38.117.128.14
+0 4 4 55213 1 1235995257
+/limerick/naut199.html
+152.135.235.188
+0 5 5 75504 1 1236080319
+/gifs/mom
+204.62.53.124
+0 1 1 1854 0 0
+-
+75.173.47.26
+0 1 1 24193 1 1236732302
+/limerick/nice499.html
+80.232.244.164
+0 5 4 53334 1 1236950349
+/limerick/1997/naut1197.html
+204.62.53.127
+0 2 2 31659 1 1236433304
+/haiku/1998/haiku198.html
+66.30.226.16
+0 6 4 56599 1 1237064837
+/limerick/naut199.html
+204.62.53.129
+0 6 6 89386 2 1236527193
+/haiku/haiku299.html
+12.210.166.95
+0 5 4 55906 1 1237220663
+/limerick/naut199.html
+88.105.198.100
+0 5 4 55906 1 1236431212
+/limerick/naut199.html
+174.129.85.193
+0 2 1 7649 1 1236827670
+/fiction/novels/peak1-3.html
+68.34.136.160
+0 5 4 55906 1 1237375552
+/limerick/naut199.html
+74.179.117.246
+0 7 4 37694 1 1236976145
+/limerick/1998/nice298.html
+218.185.10.250
+0 3 3 20361 1 1236094404
+/limerick/1996/nice496.html
+72.14.193.3
+0 7 7 108572 2 1237463850
+/limerick/naut199.html
+88.240.57.238
+0 3 1 32375 1 1236511043
+/fiction/novels/rosalind.html
+70.124.56.10
+0 3 2 10524 1 1237252067
+/limerick/1995/nautsept.html
+76.204.26.72
+0 5 3 21747 1 1237079071
+/limerick/1996/nice496.html
+71.199.231.50
+0 5 4 40079 1 1237327196
+/limerick/nice299.html
+75.68.24.25
+0 5 4 55906 1 1237401415
+/limerick/naut199.html
+81.86.40.151
+0 6 4 56599 1 1235985487
+/limerick/naut199.html
+76.113.128.107
+0 8 6 50945 1 1236807342
+/limerick/nice599.html
+72.30.142.226
+0 44 15 184172 15 1237252942
+/limerick/1998/nice498.html
+196.30.118.82
+0 2 2 5128 1 1236359568
+/limerick/1995/nautjune.html
+61.69.136.114
+0 5 4 55906 1 1236324276
+/limerick/naut199.html
+68.55.140.33
+0 6 4 56599 1 1236617224
+/limerick/naut199.html
+38.108.180.46
+0 10 5 24760 5 1236203897
+/wumpus.html
+76.189.168.32
+0 13 13 61192 1 1235887868
+/rapture/rapture.html
+131.47.100.31
+0 5 4 55906 1 1236899454
+/limerick/naut199.html
+68.200.54.211
+0 5 4 55906 1 1237097893
+/limerick/naut199.html
+189.74.116.218
+0 1 1 705 0 0
+-
+76.197.229.134
+0 6 4 56599 1 1236182635
+/limerick/naut199.html
+91.205.124.18
+0 2 1 1157 1 1236890563
+/
+204.181.196.151
+0 3 3 16968 1 1236855793
+/limerick/limerick.html
+99.186.226.127
+0 8 7 928153 1 1237386673
+/
+65.55.104.162
+0 12 8 31584 3 1237542894
+/tpnews.html
+68.189.49.248
+0 6 4 56599 1 1237171545
+/limerick/naut199.html
+204.112.185.79
+0 5 4 40079 1 1237418826
+/limerick/nice299.html
+76.79.177.2
+0 6 6 49559 1 1237312896
+/limerick/nice599.html
+81.142.77.112
+0 5 4 55906 1 1236068438
+/limerick/naut199.html
+216.13.102.252
+0 5 4 31490 1 1237280720
+/limerick/1997/nice1197.html
+143.248.25.206
+0 4 3 15562 1 1236643726
+/limerick/1996/nice896.html
+24.59.58.80
+0 6 4 93959 1 1237330383
+/haiku/1997/haiku397.html
+68.195.3.199
+0 6 4 40772 1 1237164530
+/limerick/nice299.html
+74.125.75.3
+0 1 1 68017 1 1237455354
+/haiku/haiku299.html
+86.144.70.118
+0 5 4 55906 1 1236357229
+/limerick/naut199.html
+75.34.45.69
+0 5 4 55906 1 1236024338
+/limerick/naut199.html
+74.13.73.96
+0 5 4 40079 1 1236640167
+/limerick/nice299.html
+69.228.4.123
+0 3 2 16480 1 1236893185
+/limerick/1995/nautnov.html
+67.190.59.34
+0 7 5 70532 2 1237302639
+/limerick/1995/nautnov.html
+68.118.29.90
+0 5 4 55906 1 1236274845
+/limerick/naut199.html
+71.180.7.3
+0 14 13 61885 1 1236538644
+/rapture/rapture.html
+76.3.103.15
+0 9 8 97791 1 1236897560
+/limerick/naut499.html
+207.200.116.66
+0 1 1 4698 0 0
+-
+96.54.9.60
+0 3 2 16480 1 1236686261
+/limerick/1995/nautnov.html
+72.93.131.163
+0 5 4 43276 1 1237062701
+/haiku/haiku199.html
+77.88.25.27
+0 6 3 3471 3 1237397461
+/
+174.129.115.59
+0 5 4 36119 0 0
+-
+97.86.127.155
+0 5 4 55906 1 1237050810
+/limerick/naut199.html
+199.185.87.242
+0 5 4 77006 1 1237556936
+/haiku/haiku299.html
+98.204.254.51
+0 1 1 3904 0 0
+-
+68.187.196.42
+0 5 1 20072 0 0
+-
+38.100.41.102
+0 50 48 337666 1 1237337480
+/limerick/1996/lim1996.html
+205.155.216.6
+0 8 4 39993 2 1236012054
+/limerick/1997/nice297.html
+38.100.41.107
+0 1 1 919088 1 1237352415
+/
+125.237.1.54
+0 6 4 56599 1 1236498671
+/limerick/naut199.html
+174.0.84.86
+0 5 4 31490 1 1237237883
+/limerick/1997/nice1197.html
+65.55.210.1
+0 10 7 51654 2 1237480339
+/limerick/1996/naut496.html
+216.145.22.233
+0 1 1 34481 1 1236918351
+/limerick/naut199.html
+38.108.180.81
+0 15 11 56257 3 1236146960
+/prideforallages.html
+174.129.96.68
+0 2 1 3215 1 1237541808
+/limerick/docs/formhint.html
+75.172.28.115
+0 7 4 57292 1 1236047683
+/limerick/naut199.html
+64.12.116.139
+0 2 2 3708 0 0
+-
+98.150.246.98
+0 3 1 7798 1 1236537995
+/writing/funny.html
+198.49.31.133
+0 5 4 84197 1 1236626567
+/haiku/haiku399.html
+72.44.41.92
+0 2 1 1241 1 1236976175
+/limerick/nautfrm.html
+67.160.167.26
+0 5 4 55906 1 1237518255
+/limerick/naut199.html
+24.22.104.183
+0 6 4 56599 1 1237558705
+/limerick/naut199.html
+82.0.83.149
+0 5 5 172405 2 1236759172
+/limerick/naut199.html
+24.237.225.102
+0 13 13 61192 1 1236047401
+/rapture/rapture.html
+71.240.141.14
+0 6 4 37955 1 1237317630
+/limerick/nice199.html
+128.206.54.9
+0 4 4 39386 1 1236011475
+/limerick/nice299.html
+209.183.55.5
+0 2 2 9588 0 0
+-
+209.183.55.9
+0 1 1 34481 1 1237292822
+/limerick/naut199.html
+68.194.175.162
+0 4 3 15562 1 1237151066
+/limerick/1996/nice896.html
+24.224.48.40
+0 5 5 75504 1 1235966455
+/gifs/mom
+70.174.5.121
+0 4 4 55213 1 1236526888
+/limerick/naut199.html
+208.80.194.32
+0 1 1 464 1 1236173187
+/
+85.3.65.77
+0 5 3 18354 1 1236872977
+/limerick/limerick.html
+208.80.194.33
+0 1 1 464 1 1236071371
+/
+12.185.246.194
+0 8 7 56757 1 1236258258
+/tpnews.html
+208.80.194.34
+0 1 1 464 1 1236080162
+/
+208.80.194.35
+0 1 1 464 1 1236113904
+/
+208.80.194.36
+0 1 1 464 1 1236026083
+/
+208.80.194.37
+0 2 2 928 2 1235948909
+/
+64.30.39.197
+0 7 7 56064 1 1237373601
+/tpnews.html
+90.219.97.118
+0 6 4 56599 1 1236760598
+/limerick/naut199.html
+165.74.20.254
+0 5 4 40079 1 1236708098
+/limerick/nice299.html
+98.166.11.217
+0 3 0 1499 1 1237373403
+-
+174.43.13.78
+0 4 4 55213 1 1237172572
+/limerick/naut199.html
+198.54.202.195
+0 1 1 34481 1 1235872864
+/limerick/naut199.html
+209.232.145.1
+0 3 3 55809 1 1237383729
+/haiku/1997/haiku297.html
+76.26.108.215
+0 7 4 37528 1 1236289926
+/limerick/nice499.html
+72.211.201.43
+0 6 4 32183 1 1237280943
+/limerick/1997/nice1197.html
+208.80.194.49
+0 1 1 464 1 1236166831
+/
+69.58.47.10
+0 15 12 72739 1 1237297434
+/travel/novascotia-pei2005.html
+81.106.166.135
+0 4 4 55213 1 1237274295
+/limerick/naut199.html
+72.139.104.18
+0 3 2 16480 1 1237226003
+/limerick/1995/nautnov.html
+99.252.245.212
+0 5 4 55906 1 1236979875
+/limerick/naut199.html
+76.212.91.238
+0 4 3 52730 1 1236014962
+/limerick/brady/brady98.html
+68.116.141.201
+0 4 4 30797 1 1237070067
+/limerick/1997/nice1197.html
+206.229.33.248
+0 4 4 47856 1 1237206403
+/limerick/1996/naut196.html
+82.25.54.40
+0 1 1 13933 1 1236953733
+/limerick/1995/nautnov.html
+66.235.124.8
+0 226 203 4231405 86 1237554308
+/limerick/1996/naut296.html
+71.30.8.121
+0 5 4 55906 1 1237316405
+/limerick/naut199.html
+208.80.194.50
+0 2 2 928 2 1235939200
+/
+64.129.85.90
+0 5 4 40079 1 1236953413
+/limerick/nice299.html
+65.25.36.200
+0 5 4 40079 1 1236537801
+/limerick/nice299.html
+74.226.46.15
+0 6 4 56599 1 1236706882
+/limerick/naut199.html
+194.31.241.5
+0 5 4 55906 1 1237441282
+/limerick/naut199.html
+65.11.53.80
+0 1 0 693 1 1236558652
+-
+71.202.125.25
+0 5 4 40079 1 1235947187
+/limerick/nice299.html
+66.207.131.176
+0 6 4 56599 1 1236283163
+/limerick/naut199.html
+24.36.238.190
+0 3 2 16480 1 1236968372
+/limerick/1995/nautnov.html
+65.102.39.106
+0 4 3 21054 1 1237059008
+/limerick/1996/nice496.html
+66.7.63.194
+0 8 7 56757 1 1237299783
+/news.html
+209.204.96.142
+0 1 1 25723 1 1236682483
+/fiction/novels/parkey.html
+147.66.8.158
+0 4 4 55213 1 1237264638
+/limerick/naut199.html
+75.2.253.68
+0 5 4 55906 1 1237073930
+/limerick/naut199.html
+67.202.30.8
+0 10 9 39213 1 1236772527
+/gifs/pastheaders.html
+70.48.254.77
+0 3 3 2757264 1 1237182919
+/
+82.33.145.95
+0 5 4 55906 1 1237225191
+/limerick/naut199.html
+204.193.117.68
+0 6 4 40772 1 1237215948
+/limerick/nice299.html
+75.87.210.222
+0 3 2 10524 1 1237048974
+/limerick/1995/nautsept.html
+72.11.92.10
+0 1 1 464 1 1235886977
+http://www.toastpoint.com/
+65.98.224.5
+0 34 33 629051 2 1237107722
+/haiku/1996/bestof96.html
+81.232.34.106
+0 5 4 43276 1 1236147271
+/haiku/haiku199.html
+69.10.222.66
+0 5 4 40079 1 1236943512
+/limerick/nice299.html
+64.12.116.6
+0 1 1 11144 0 0
+-
+66.252.42.10
+0 7 4 39386 1 1237271252
+/limerick/nice299.html
+64.12.116.8
+0 1 1 4704 0 0
+-
+24.69.35.243
+0 5 3 21054 1 1237219084
+/limerick/1996/nice496.html
+67.187.31.192
+0 6 4 56599 1 1236946382
+/limerick/naut199.html
+207.200.116.131
+0 1 1 4704 0 0
+-
+193.47.80.45
+0 17 9 196065 9 1237586841
+/photo.html
+208.80.192.6
+0 1 1 464 1 1236996404
+/
+76.112.5.229
+0 5 4 55906 1 1236089369
+/limerick/naut199.html
+74.52.245.146
+0 1 1 919088 1 1236021338
+/
+70.254.0.192
+0 6 4 56599 1 1237316093
+/limerick/naut199.html
+208.254.130.235
+0 2 2 12998 0 0
+-
+199.89.170.92
+0 14 14 74009 1 1236258656
+/limerick/1995/nicenov.html
+92.119.44.168
+0 10 6 32102 1 1236524062
+/fiction/fict98/fict698.html
+192.234.223.100
+0 4 4 30797 1 1237214306
+/limerick/1997/nice1197.html
+89.207.208.14
+0 2 1 24886 1 1237530407
+/limerick/nice499.html
+172.165.114.22
+0 4 3 49725 1 1237156561
+/rapture/rapture.html
+89.207.208.17
+0 2 1 5397 0 0
+-
+75.31.76.173
+0 5 4 37982 1 1237149224
+/limerick/nice599.html
+72.208.184.190
+0 6 4 56599 1 1237322244
+/limerick/naut199.html
+65.55.232.19
+0 5 3 36769 3 1237244392
+/limerick/1996/nice796.html
+193.35.10.55
+0 4 4 55213 1 1237285316
+/limerick/naut199.html
+70.173.223.228
+0 6 4 56599 1 1237300770
+/limerick/naut199.html
+66.91.251.254
+0 5 4 40079 1 1236800716
+/limerick/nice299.html
+195.210.57.83
+0 8 4 42292 4 1236113093
+/limerick/1996/nice896.html
+12.104.255.162
+0 3 3 22687 1 1236179725
+/limerick/1997/nice197.html
+96.232.158.26
+0 2 2 928 2 1236993500
+http://www.toastpoint.com/
+63.88.37.32
+0 2 1 28823 1 1236947321
+/limerick/nice299.html
+70.63.88.95
+0 4 4 39386 1 1237462806
+/limerick/nice299.html
+194.80.240.66
+0 5 4 24188 1 1236262217
+/limerick/1996/naut996.html
+24.85.255.129
+0 5 4 55906 1 1237450287
+/limerick/naut199.html
+69.57.206.252
+0 13 12 132261 1 1236695660
+/gifs/mom
+65.55.232.20
+0 8 7 31282 2 1235949192
+/tpnews.html
+75.66.176.117
+0 6 4 56599 1 1237547478
+/limerick/naut199.html
+89.207.208.3
+0 2 2 6552 0 0
+-
+65.32.40.136
+0 10 9 94322 1 1237055925
+/limerick/nice299.html
+117.199.35.209
+0 4 4 58949 1 1236828637
+/limerick/naut399.html
+213.171.34.236
+0 6 4 77699 1 1237259234
+/haiku/haiku299.html
+193.47.80.77
+0 14 13 141115 3 1237188210
+/limerick/1997/naut497.html
+79.122.45.227
+0 5 4 114064 1 1237300350
+/fiction/novels/peak2.html
+24.22.229.100
+0 9 5 90387 2 1236906820
+/limerick/naut199.html
+65.55.220.208
+0 3 2 28743 1 1236076074
+/gifs/pastheaders.html
+65.55.220.209
+0 2 1 59235 0 0
+-
+92.24.126.187
+0 5 4 55906 1 1236725942
+/limerick/naut199.html
+74.166.133.182
+0 1 0 693 0 0
+-
+67.202.54.191
+0 17 9 287460 8 1237452529
+/rapture/rapture.html
+208.251.135.226
+0 16 12 120930 3 1237376921
+/limerick/nice299.html
+208.114.97.195
+0 6 4 56599 1 1236656716
+/limerick/naut199.html
+68.57.247.90
+0 5 4 55906 1 1235916735
+/limerick/naut199.html
+173.24.169.128
+0 2 1 3215 1 1236625577
+/limerick/docs/formhint.html
+74.125.16.2
+0 2 2 37003 2 1237398534
+/limerick/docs/formhint.html
+165.234.100.67
+0 5 4 77006 1 1236616361
+/haiku/haiku299.html
+68.119.105.232
+0 6 5 71171 1 1236116164
+/limerick/nice399.html
+65.55.220.214
+0 2 1 25212 0 0
+-
+128.30.52.13
+0 1 1 2147 1 1237049203
+/haiku/haiku.html
+209.101.57.219
+0 8 7 56757 1 1236166730
+/tpnews.html
+75.101.220.123
+0 1 1 464 1 1237323811
+/
+206.239.181.8
+0 4 3 29744 1 1236627428
+/rapture/rapture.html
+208.54.15.106
+0 4 4 50551 1 1237235604
+/fiction/fict9596/fict996.html
+204.100.235.20
+0 7 4 41465 1 1237467490
+/limerick/nice299.html
+72.30.161.230
+0 3 1 49060 2 1237339662
+-
+76.99.150.189
+0 5 4 55906 1 1237416855
+/limerick/naut199.html
+216.100.94.2
+0 1 1 28130 1 1236864757
+/limerick/nice299.html
+24.7.60.59
+0 6 5 76197 1 1236276026
+/gifs/mom
+65.55.220.222
+0 2 1 20541 0 0
+-
+158.169.131.14
+0 6 6 48656 1 1236142436
+/haiku/haiku599.html
+195.229.241.171
+0 6 6 63204 1 1236865781
+/fiction/fict399.html
+98.240.48.168
+0 8 4 42158 1 1236023165
+/limerick/nice299.html
+74.6.18.216
+0 2 0 1386 0 0
+-
+95.37.144.168
+0 6 4 77699 1 1237302526
+/haiku/haiku299.html
+24.86.15.83
+0 9 8 98317 1 1236603609
+/limerick/1995/nautsept.html
+71.198.238.70
+0 3 2 8577 1 1236974081
+/haiku/haiku.html
+38.98.176.194
+0 79 70 1703974 1 1236789138
+/conthist.html
+72.30.79.105
+0 1 0 693 0 0
+-
+97.115.125.162
+0 5 4 55906 1 1237286522
+/limerick/naut199.html
+190.2.11.205
+0 5 5 65144 1 1236999795
+/welcome.html
+134.67.6.14
+0 5 4 40079 1 1236592797
+/limerick/nice299.html
+128.135.188.14
+0 5 4 55906 1 1237382978
+/limerick/naut199.html
+173.48.105.228
+0 3 1 3908 1 1237362910
+/limerick/docs/formhint.html
+174.129.152.153
+0 19 18 333143 1 1236673974
+/limerick/nice499.html
+147.253.45.121
+0 7 4 21569 1 1236264792
+/limerick/limerick.html
+216.220.216.157
+0 2 2 42215 1 1237252411
+/limerick/naut199.html
+76.174.234.97
+0 5 4 24188 1 1235877629
+/limerick/1996/naut996.html
+212.219.106.152
+0 5 4 55906 1 1236328366
+/limerick/naut199.html
+170.185.164.19
+0 13 13 61192 1 1236082058
+/rapture/rapture.html
+193.62.5.215
+0 6 4 40772 1 1236684538
+/limerick/nice299.html
+74.6.18.231
+0 1 0 693 0 0
+-
+212.129.64.70
+0 3 2 8965 1 1236370021
+/limerick/brady/brady96.html
+71.198.172.151
+0 6 4 40772 1 1236625022
+/limerick/nice299.html
+74.78.224.38
+0 6 4 40772 1 1236702716
+/limerick/nice299.html
+66.249.65.161
+0 10 7 103933 3 1237171352
+/fiction/novels/xmascurl.html
+130.76.96.22
+0 18 18 230067 1 1236169339
+/wumpus.html
+66.249.65.163
+0 13 12 249232 9 1237223713
+/limerick/1997/nice1197.html
+98.240.203.250
+0 5 4 55906 1 1237025171
+/limerick/naut199.html
+66.249.65.165
+0 9 6 1036977 6 1237224245
+/limerick/nice499.html
+66.249.65.166
+0 5 5 68937 4 1237172163
+/limerick/1996/naut896.html
+66.249.65.167
+0 8 8 128122 7 1237212026
+/fiction/fict98/fict698.html
+99.13.14.50
+0 5 4 42907 1 1236181388
+/haiku/haiku599.html
+66.249.65.169
+0 8 7 70585 6 1237231860
+/limerick/limerick.html
+62.40.38.158
+0 5 4 44520 1 1236797456
+/limerick/naut299.html
+67.188.112.28
+0 5 4 37262 1 1237329596
+/limerick/nice199.html
+66.249.72.65
+0 2 2 15015 2 1237477897
+/fiction/fict499.html
+66.249.72.66
+0 2 2 24611 2 1237476934
+/limerick/nice499.html
+66.249.72.67
+0 1 1 2613 1 1237479966
+/limerick/limerick.html
+97.115.72.49
+0 5 4 40079 1 1237298993
+/limerick/nice299.html
+58.61.164.139
+0 5 0 3465 0 0
+-
+75.73.241.177
+0 4 3 21054 1 1237570095
+/limerick/1996/nice496.html
+65.55.209.76
+0 2 1 4134 1 1237140260
+/ponder.html
+123.245.128.15
+0 1 1 464 1 1236941765
+/
+65.55.209.78
+0 2 1 7639 1 1237094370
+/writing/computer.html
+74.6.18.246
+0 3 0 2079 0 0
+-
+156.56.195.140
+0 5 4 24188 1 1236793212
+/limerick/1996/naut996.html
+208.242.58.125
+0 5 4 55906 1 1236699558
+/limerick/naut199.html
+69.64.218.57
+0 4 3 21054 1 1236264863
+/limerick/1996/nice496.html
+38.101.210.62
+0 3 3 7808 0 0
+-
+220.181.61.231
+0 2 0 693 1 1236708022
+/limerick/brady/brady1.html
+118.92.137.227
+0 5 4 55906 1 1236896584
+/limerick/naut199.html
+66.249.65.170
+0 10 8 131655 3 1237222822
+/limerick/1995/nicejuly.html
+66.249.65.171
+0 9 9 242528 5 1237222130
+/limerick/naut599.html
+66.249.65.172
+0 5 5 72841 5 1237222408
+/limerick/1996/lim1996.html
+66.249.65.174
+0 8 6 76409 6 1237194758
+/prideforallages.html
+134.82.46.8
+0 4 4 55213 1 1236936732
+/limerick/naut199.html
+216.220.216.177
+0 1 1 11144 0 0
+-
+66.249.65.175
+0 15 14 244864 8 1237210363
+/limerick/1995/nicemay.html
+66.249.65.176
+0 7 7 115775 6 1237215471
+/limerick/1997/nice397.html
+66.249.72.70
+0 6 5 79378 2 1237481422
+/fiction/fict97/fict697.html
+66.249.65.177
+0 8 5 125198 5 1237161213
+/haiku/1997/haik1097.html
+66.208.13.210
+0 5 4 55906 1 1236960838
+/limerick/naut199.html
+63.241.3.51
+0 9 9 23517 9 1237050646
+/limerick/limerick.html
+66.249.72.71
+0 1 1 1540 1 1237481702
+/fiction/fict98/fict98.html
+66.249.65.178
+0 11 10 228252 5 1237225896
+/limerick/1997/nice197.html
+66.249.72.72
+0 3 3 20733 2 1237481734
+/limerick/1995/bestnice.html
+66.249.65.179
+0 11 10 260735 6 1237228851
+/limerick/1997/nice497.html
+65.55.209.80
+0 2 1 2995 1 1236904617
+/fiction/novels/peak1-2.html
+98.229.85.31
+0 6 5 76197 1 1236125236
+/gifs/mom
+66.249.72.75
+0 1 1 464 1 1237453610
+/
+66.249.72.76
+0 3 3 24075 1 1237482524
+/limerick/1995/nautjuly.html
+66.249.72.77
+0 5 4 26531 2 1237481637
+/limerick/1995/nicesept.html
+67.191.153.96
+0 2 2 7884 1 1237066800
+/haiku/haiku.html
+66.249.72.79
+0 2 2 23662 2 1237485387
+/haiku/1997/haik1297.html
+65.55.209.86
+0 1 1 2147 1 1236171059
+/haiku/haiku.html
+216.102.79.181
+0 1 1 28130 1 1236686062
+/limerick/nice299.html
+75.68.41.68
+0 6 4 40772 1 1236705252
+/limerick/nice299.html
+65.55.230.217
+0 5 1 4805 2 1236818290
+-
+65.55.230.218
+0 8 4 4628 4 1237490791
+/
+67.195.37.106
+0 8 7 30816 2 1237216446
+/tpnews.html
+67.185.182.183
+0 4 1 36560 1 1236737609
+/limerick/naut199.html
+75.173.26.236
+0 7 6 50252 1 1236729609
+/limerick/nice599.html
+66.249.65.180
+0 14 14 322077 9 1237233961
+/haiku/1996/haiku196.html
+74.59.77.117
+0 5 4 55906 1 1236084979
+/limerick/naut199.html
+203.218.123.131
+0 3 3 75608 1 1236922685
+/haiku/haiku299.html
+66.249.72.80
+0 6 4 26067 2 1237483499
+/fiction/novels/peak4.html
+66.249.72.81
+0 2 2 16071 2 1237485398
+/limerick/1995/nautnov.html
+68.98.79.253
+0 14 13 61885 1 1236738184
+/rapture/rapture.html
+66.249.72.82
+0 2 2 3264 1 1237481534
+/haiku/1998/haik1998.html
+66.249.72.83
+0 1 1 75208 1 1237470915
+/haiku/haiku399.html
+66.249.72.84
+0 5 5 36088 2 1237481281
+/limerick/docs/formhint.html
+209.105.204.165
+0 6 2 15845 1 1236006004
+/fiction/fict9596/fict1095.html
+64.207.254.254
+0 5 4 40079 1 1236685975
+/limerick/nice299.html
+75.41.113.150
+0 7 4 85583 1 1236728936
+/haiku/haiku399.html
+41.209.16.149
+0 3 2 16480 1 1237252291
+/limerick/1995/nautnov.html
+213.190.137.50
+0 3 3 18240 1 1236921571
+/limerick/1995/nicedec.html
+67.195.37.111
+0 8 7 30816 2 1237395392
+/tpnews.html
+67.195.37.113
+0 8 7 30816 1 1236595043
+/tpnews.html
+156.47.15.10
+0 3 3 14869 1 1236706279
+/limerick/1996/nice896.html
+77.208.177.207
+0 1 1 464 1 1236869305
+http://www.toastpoint.com/
+98.65.193.94
+0 7 4 57292 1 1237335273
+/limerick/naut199.html
+216.220.216.195
+0 1 1 1854 0 0
+-
+124.183.86.106
+0 4 4 55213 1 1236665040
+/limerick/naut199.html
+65.55.37.179
+0 24 13 13655 13 1237168879
+/
+81.153.236.18
+0 3 2 16480 1 1237288774
+/limerick/1995/nautnov.html
+67.195.37.123
+0 8 7 30816 1 1236839498
+/tpnews.html
+67.195.37.125
+0 8 7 30816 2 1237305368
+/tpnews.html
+167.93.112.186
+0 14 13 61885 1 1237292251
+/rapture/rapture.html
+66.193.100.150
+0 5 4 40079 1 1237304293
+/limerick/nice299.html
+209.191.87.214
+0 2 2 928 1 1236851229
+/
+70.181.12.158
+0 5 4 40079 1 1237325997
+/limerick/nice299.html
+68.45.64.253
+0 4 3 21054 1 1237033398
+/limerick/1996/nice496.html
+69.201.152.86
+0 2 1 3856 1 1236429027
+/midi/midi.html
+207.237.213.46
+0 5 4 40079 1 1237163052
+/limerick/nice299.html
+64.214.144.254
+0 6 5 51031 1 1237305289
+/limerick/1997/nice1197.html
+174.129.132.92
+0 3 2 11083 1 1237504757
+/bio.html
+72.159.148.3
+0 2 2 26468 1 1237280407
+/rapture/rapture.html
+68.230.119.143
+0 10 8 111812 1 1236387754
+/limerick/naut199.html
+170.185.89.19
+0 13 13 61192 1 1236159120
+/rapture/rapture.html
+71.142.217.209
+0 6 4 56599 1 1237258710
+/limerick/naut199.html
+76.27.123.32
+0 4 4 55213 1 1236214017
+/limerick/naut199.html
+66.32.113.236
+0 9 5 64272 2 1236977229
+/limerick/nice499.html
+203.153.36.195
+0 4 4 55213 1 1237121131
+/limerick/naut199.html
+174.129.81.32
+0 18 16 72394 1 1236812648
+/rapture/hagss.html
+220.255.7.145
+0 1 0 693 0 0
+-
+69.58.178.29
+0 13 11 966028 2 1236815076
+/
+220.255.7.148
+0 1 1 4312 0 0
+-
+99.167.127.14
+0 5 4 55906 1 1236194143
+/limerick/naut199.html
+76.211.104.46
+0 5 4 55906 1 1236250309
+/limerick/naut199.html
+75.4.20.174
+0 4 3 17661 1 1236984948
+/limerick/limerick.html
+69.61.185.88
+0 2 2 928 2 1237518126
+http://www.toastpoint.com/
+69.95.200.240
+0 5 4 55906 1 1237550050
+/limerick/naut199.html
+67.181.66.151
+0 4 4 35449 1 1236665377
+/limerick/nice499.html
+124.115.1.66
+0 149 149 691095 25 1237590160
+/tpnews.html
+198.237.188.57
+0 3 3 47479 1 1236084239
+/limerick/naut199.html
+216.186.97.1
+0 1 1 28130 1 1237471666
+/limerick/nice299.html
+24.64.223.205
+0 6 5 33448 1 1236351159
+/limerick/limerick.html
+90.212.35.14
+0 5 4 55906 1 1236271004
+/limerick/naut199.html
+220.255.7.155
+0 1 1 20571 0 0
+-
+24.154.167.23
+0 2 2 15787 1 1237197582
+/limerick/1995/nautnov.html
+92.2.94.18
+0 3 1 2678 0 0
+-
+201.52.117.11
+0 5 4 37262 1 1236025108
+/limerick/nice199.html
+99.173.23.160
+0 14 13 61885 1 1236702519
+/rapture/rapture.html
+89.100.74.247
+0 5 4 40079 1 1236931447
+/limerick/nice299.html
+124.115.10.193
+0 150 150 699400 25 1237589734
+/tpnews.html
+64.12.117.78
+0 1 1 7734 0 0
+-
+38.100.8.50
+0 33 31 3406904 2 1236792902
+/index_files/page0008.html
+67.195.37.159
+0 8 7 30816 2 1237487681
+/tpnews.html
+217.169.40.84
+0 2 2 18507 1 1236938144
+/limerick/1996/nice496.html
+72.205.59.11
+0 3 1 5290 0 0
+-
+67.101.216.99
+0 5 4 55906 1 1237336531
+/limerick/naut199.html
+94.142.128.140
+0 2 2 7152 2 1236926907
+/writing/kyw.html
+92.114.170.205
+0 3 3 34846 1 1236164378
+/
+24.153.134.194
+0 5 4 55906 1 1237062955
+/limerick/naut199.html
+122.108.93.172
+0 5 4 40079 1 1237344133
+/limerick/nice299.html
+70.159.110.98
+0 2 2 928 2 1235874926
+http://www.toastpoint.com/
+65.254.5.2
+0 5 4 40079 1 1236685823
+/limerick/nice299.html
+66.242.66.242
+0 9 5 68209 2 1236196530
+/limerick/nice299.html
+192.30.202.18
+0 4 4 39386 1 1236881195
+/limerick/nice299.html
+90.192.149.243
+0 3 2 16480 1 1236707041
+/limerick/1995/nautnov.html
+38.112.72.154
+0 2 2 32834 1 1237457550
+/limerick/nice299.html
+220.255.7.179
+0 1 1 4756 0 0
+-
+12.40.94.3
+0 4 4 55213 1 1237296570
+/limerick/naut199.html
+38.103.17.183
+0 2 1 1157 1 1236568486
+/
+69.71.98.162
+0 7 6 57893 1 1237214466
+/limerick/1996/nice496.html
+69.74.172.34
+0 1 1 28130 1 1236248111
+/limerick/nice299.html
+74.6.30.101
+0 6 6 27976 1 1236170073
+/tpnews.html
+4.23.83.100
+0 9 9 83180 1 1236975144
+/limerick/1997/nice1197.html
+71.178.197.13
+0 28 26 219975 1 1236729374
+/gifs/mom
+67.195.37.176
+0 8 7 30816 1 1237123889
+/tpnews.html
+98.209.3.212
+0 4 4 39386 1 1237314295
+/limerick/nice299.html
+64.56.65.37
+0 6 6 2784 2 1237631945
+/
+67.195.37.179
+0 66 40 186318 14 1236508609
+/tpnews.html
+198.60.168.182
+0 1 1 28130 1 1237295791
+/limerick/nice299.html
+220.255.7.184
+0 1 1 27729 1 1236502603
+/fiction/fict399.html
+220.255.7.185
+0 1 1 1536 0 0
+-
+71.232.163.175
+0 5 4 55906 1 1236107236
+/limerick/naut199.html
+74.208.8.48
+0 5 5 19671 1 1236101222
+/news.html
+69.56.70.205
+0 1 1 28130 1 1237295702
+/limerick/nice299.html
+196.25.255.194
+0 1 1 13933 1 1237173609
+/limerick/1995/nautnov.html
+98.221.253.41
+0 32 25 322276 2 1236816962
+/limerick/1998/naut1098.html
+168.216.129.10
+0 14 11 54997 1 1236852761
+/rapture/rapture.html
+59.160.30.29
+0 1 1 8305 1 1236447830
+/tpnews.html
+74.6.30.119
+0 7 7 15029 7 1237522202
+/haiku/haiku.html
+66.235.124.104
+0 7 1 65046 4 1237332924
+/fiction/fict98/fict198.html
+75.101.225.249
+0 18 16 329112 2 1237433599
+/limerick/nice499.html
+69.219.141.103
+0 2 1 7105 1 1235944079
+/writing/funny.html
+67.195.37.189
+0 8 7 30816 1 1236930574
+/haiku/haiku.html
+194.110.162.94
+0 1 1 35588 1 1236811213
+/haiku/1998/haiku298.html
+148.129.74.41
+0 5 4 55906 1 1237273886
+/limerick/naut199.html
+207.126.224.241
+0 17 5 12196 8 1237388009
+/
+60.242.198.83
+0 4 4 83504 1 1236742122
+/haiku/haiku399.html
+86.130.214.104
+0 8 5 57840 1 1236853342
+/limerick/nautfrm.html
+12.183.160.42
+0 7 6 55311 1 1237032877
+/limerick/nice399.html
+32.128.143.236
+0 4 4 113371 1 1237096638
+/fiction/novels/peak2.html
+67.240.66.189
+0 4 4 67763 1 1236970558
+/limerick/1998/naut298.html
+76.88.4.170
+0 7 4 37528 1 1236343677
+/limerick/nice499.html
+174.129.146.78
+0 15 14 242541 1 1237605792
+/fiction/fict9596/fict896.html
+120.28.69.215
+0 6 4 56599 1 1236580639
+/limerick/naut199.html
+193.252.149.13
+0 8 6 213500 6 1237457664
+/limerick/nice199.html
+208.114.97.50
+0 3 2 16480 1 1237323004
+/limerick/1995/nautnov.html
+193.252.149.14
+0 5 5 236730 4 1237445284
+/limerick/naut399.html
+193.252.149.15
+0 26 24 656883 22 1237423560
+/haiku/haikufrm.html
+24.119.144.56
+0 5 4 55906 1 1235949341
+/limerick/naut199.html
+193.252.149.16
+0 28 18 426684 21 1237570265
+/limerick/naut499.html
+213.94.150.208
+0 5 4 37203 1 1236189099
+/limerick/1998/nice198.html
+193.62.3.251
+0 5 4 40079 1 1235971433
+/limerick/nice299.html
+66.249.72.102
+0 2 2 25687 2 1236083818
+/links.html
+66.249.72.103
+0 1 1 22468 1 1236081569
+/limerick/1997/naut597.html
+24.154.69.39
+0 15 14 65789 1 1236971221
+/rapture/rapture.html
+65.219.160.140
+0 2 1 35174 1 1236772824
+/limerick/naut199.html
+67.202.34.240
+0 5 4 8159 1 1236466800
+/limerick/1998/lim1998.html
+66.249.72.105
+0 1 1 1887 1 1236076292
+/haiku/1996/haik1996.html
+97.92.181.101
+0 10 7 58143 1 1236018331
+/tpnews.html
+93.158.156.98
+0 7 7 56064 1 1236200334
+/tpnews.html
+66.249.72.107
+0 1 0 693 0 0
+-
+205.188.116.75
+0 1 1 0 1 1236890655
+/rapture/rapture.html
+66.172.136.214
+0 4 4 39386 1 1237217541
+/limerick/nice299.html
+67.101.151.149
+0 4 3 15562 1 1236798487
+/limerick/1996/nice896.html
+198.54.202.218
+0 1 1 7734 0 0
+-
+212.113.48.20
+0 5 5 169590 5 1237254314
+/haiku/haiku599.html
+64.75.230.126
+0 4 3 38943 1 1236483965
+/haiku/1997/haiku597.html
+99.226.105.206
+0 8 7 56757 1 1236432000
+/toastpointtopright.html
+98.151.49.126
+0 4 2 27161 1 1236206400
+/rapture/rapture.html
+67.202.29.53
+0 20 19 335339 1 1237319726
+/limerick/nice499.html
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.71.101
+0 1 0 693 1 1237621474
+-
+208.80.195.42
+0 1 1 464 1 1237628560
+/
+208.80.195.45
+0 1 1 464 1 1237636634
+/
+66.249.65.225
+0 1 1 6418 1 1237606282
+/limerick/brady/brady96.html
+66.249.65.227
+0 1 1 21235 1 1237600413
+/limerick/naut599.html
+66.249.65.228
+0 1 1 22468 1 1237595616
+/limerick/1997/naut597.html
+66.249.65.229
+0 1 1 24732 1 1237595427
+/limerick/1997/naut697.html
+66.249.71.39
+0 1 0 693 0 0
+-
+66.249.65.230
+0 2 2 40957 2 1237600238
+/limerick/nice499.html
+66.249.65.232
+0 3 3 71774 1 1237597579
+/fiction/fict97/fict597.html
+66.249.65.233
+0 2 2 28322 1 1237598076
+/fiction/fict599.html
+66.249.65.234
+0 3 3 81251 1 1237595442
+/limerick/1997/naut197.html
+66.249.71.42
+0 1 1 2138 1 1237679988
+/haiku/1997/haik1997.html
+66.249.65.239
+0 3 3 57799 3 1237606505
+/fiction/novels/peak.html
+66.249.65.240
+0 5 5 97064 2 1237607734
+/fiction/fict499.html
+66.249.65.242
+0 2 2 25244 1 1237598089
+/limerick/brady/brady99.html
+66.249.71.51
+0 1 1 5576 1 1237621827
+/limerick/docs/fletcher.html
+66.249.71.52
+0 1 1 2147 1 1237678100
+/haiku/haiku.html
+66.249.71.54
+0 1 0 693 0 0
+-
+66.249.71.55
+0 1 0 693 0 0
+-
+61.247.221.87
+0 2 1 23257 1 1237598126
+/rapture/rapture.html
+74.6.17.185
+0 2 2 39436 2 1237631808
+/travel/italy2008.html
+74.72.209.3
+0 16 12 58724 2 1237655496
+/tpnews.html
+64.56.65.37
+0 3 3 1392 1 1237631945
+/
+174.129.146.78
+0 15 14 242541 1 1237605792
+/fiction/fict9596/fict896.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.toastpoint.com/limerick/naut199.html
+0 490
+http://www.toastpoint.com/limerick/1998/naut698.html
+0 1
+http://www.google.pl/search
+0 19
+- (Direct Request)
+0 4184
+http://www.toastpoint.com/limerick/1995/nautjune.html
+0 1
+http://www.toastpoint.com/ponder.html
+0 9
+http://www.toastpoint.com/haiku/1996/haik1996.html
+0 2
+http://www.dogpile.com/dogpile/ws/results/Images/fair and speedy trial/1/417/TopNavigation/Relevance/iq
+0 1
+http://www.google.com/m
+0 4
+http://www.toastpoint.com/limerick/1998/nice198.html
+0 3
+http://business.verizon.net/search/web/default.aspx
+0 1
+http://www.toastpoint.com/haiku/haiku199.html
+0 6
+http://www.google.co.uk/search
+0 27
+http://www.toastpoint.com/fiction/fict98/fict698.html
+0 9
+http://www.google.co.nz/search
+0 1
+http://translate.google.com.sa/translate
+0 1
+http://www.google.com.au/search
+0 5
+http://search.virginmedia.com/results/
+0 1
+http://www.toastpoint.com/limerick/nice199.html
+0 31
+http://www.toastpoint.com/limerick/1998/nice698.html
+0 2
+http://www.google.com.jm/search
+0 1
+http://www.scroogle.org/cgi-bin/nbbw.cgi
+0 1
+http://www.toastpoint.com/haiku/1995/1995.html
+0 1
+http://www.toastpoint.com/toastpointtoc.html
+0 76
+http://72.14.247.132/translate_c
+0 1
+http://www.toastpoint.com/limerick/1996/nau1096.html
+0 3
+http://www.toastpoint.com/haiku/1997/haik1297.html
+0 3
+http://www.google.com/xhtml
+0 1
+http://www.toastpoint.com/limerick/1995/nautsept.html
+0 7
+http://www.toastpoint.com/limerick/1996/nice796.html
+0 2
+http://images.google.co.uk/imgres
+0 1
+http://www.toastpoint.com/limerick/1997/naut1197.html
+0 6
+http://www.toastpoint.com/travel/buxton2006.html
+0 1
+http://www.google.com/search
+0 207
+http://www.toastpoint.com/fiction/fict9596/fict1095.html
+0 2
+http://merqury.t-t.com/Palantir/MultiEngineSearch.html
+0 1
+DELBY FILSECLAB FIREWALL WWW.FILSECLAB.COM
+0 1
+http://www.toastpoint.com/limerick/1997/lim1997.html
+0 2
+http://search.live.com/images/results.aspx
+0 1
+http://www.toastpoint.com/photo.html
+0 4
+http://www.toastpoint.com/limerick/1995/nautmay.html
+0 2
+http://www.toastpoint.com/limerick/brady/brady97.html
+0 2
+http://www.toastpoint.com/fiction/novels/peak2.html
+0 6
+http://006a13a.netsolhost.com/limerick/naut199.html
+0 3
+http://www.toastpoint.com/limerick/naut399.html
+0 6
+http://www.toastpoint.com/limerick/1997/nice1197.html
+0 36
+http://www.keywordspy.com/keyword-research/toastpoint.com
+0 6
+http://www.toastpoint.com/robots.txt
+0 5
+http://www.toastpoint.com/limerick/1996/naut996.html
+0 19
+http://www.toastpoint.com/limerick/1995/nautnov.html
+0 21
+http://dir.yahoo.com/Arts/Humanities/Literature/Poetry/Poetic_Forms/Closed_Forms/Haiku/Humorous/Contests_and_Submissions/
+0 2
+http://www.toastpoint.com/haiku/1997/haiku397.html
+0 4
+http://search.aol.com/aol/search
+0 2
+http://www.toastpoint.com/limerick/brady/brady98.html
+0 6
+http://mail.google.com/mail/
+0 1
+http://74.125.95.132/search
+0 3
+http://www.toastpoint.com/haiku/haiku399.html
+0 19
+http://www.toastpoint.com/wumpus.html
+0 1
+http://www.toastpoint.com/fiction/fict9596/fict996.html
+0 4
+http://www.toastpoint.com/haiku/1996/haiku296.html
+0 1
+http://006a13a.netsolhost.com/limerick/nice199.html
+0 3
+http://search.live.com/results.aspx
+0 3
+http://www.toastpoint.com/limerick/nice399.html
+0 6
+http://www.toastpoint.com/limerick/1996/nice496.html
+0 34
+http://www.dogpile.com/dogpile/ws/results/Images/trail by jury/1/417/TopNavigation/Relevance/iq
+0 1
+http://www.toastpoint.com/limerick/1997/naut797.html
+0 2
+http://209.85.173.132/search
+0 3
+http://www.toastpoint.com/limerick/docs/formhint.html
+0 12
+http://www.google.co.za/search
+0 2
+http://www.toastpoint.com/bio.html
+0 71
+http://www.toastpoint.com/limerick/limerick.html
+0 89
+http://www.toastpoint.com/limerick/1996/naut196.html
+0 3
+http://www.google.co.in/search
+0 2
+http://www.toastpoint.com/haiku/1998/haiku198.html
+0 2
+http://images.google.com.sg/imgres
+0 1
+http://www.toastpoint.com/limerick/naut599.html
+0 14
+http://209.85.135.132/translate_c
+0 3
+http://www.google.com/hws/search
+0 1
+http://images.google.com/images
+0 1
+http://www.toastpoint.com/limerick/1998/lim1998.html
+0 8
+http://random.yahoo.com/fast/ryl
+0 41
+http://www.toastpoint.com/haiku/moral.html
+0 1
+http://www.google.com/url
+0 2
+http://www.toastpoint.com/haiku/1997/haiku597.html
+0 6
+http://www.google.hu/search
+0 2
+Yahoo!
+2 47
+http://www.toastpoint.com/limerick/1997/naut497.html
+0 3
+http://www.toastpoint.com/haiku/haiku599.html
+0 20
+http://209.85.229.132/search
+0 3
+http://www.toastpoint.com/
+0 254
+http://www.dogpile.com/dogpile/ws/results/Images/grand jury/2/0/0/Relevance/zoom
+0 1
+http://translate.google.com.br/translate
+0 1
+http://www.smashboards.com/showthread.php
+0 1
+http://www.toastpoint.com/limerick/nice599.html
+0 17
+http://www.toastpoint.com/links.html
+0 1
+http://www.toastpoint.com/limerick/1997/naut997.html
+0 8
+http://www.toastpoint.com/tpnews.html
+0 53
+http://www.toastpoint.com/fiction/fiction.html
+0 3
+http://www.toastpoint.com/limerick/1998/naut298.html
+0 3
+http://74.125.47.132/search
+0 5
+http://www.google.ie/m
+0 1
+http://www.toastpoint.com/fiction/fict98/fict1298.html
+0 5
+http://www.google.co.kr/search
+0 1
+http://www.canadaspace.com/bnkg.php
+0 6
+http://www.toastpoint.com/limerick/1998/nice1198.html
+0 3
+http://www.toastpoint.com/rapture/rapture.html
+0 277
+http://www.dogpile.com/dogpile/ws/results/Images/state right/2/0/0/Relevance/zoom
+0 1
+http://www.toastpoint.com/limerick/1995/1995.html
+0 2
+http://www.toastpoint.com/fiction/fict399.html
+0 20
+http://www.toastpoint.com/limerick/1995/bestnaut.html
+0 2
+http://www.toastpoint.com/limerick/naut299.html
+0 6
+http://ms136.mysearch.com/search/GGmain.jhtml
+0 1
+http://www.toastpoint.com/news.html
+0 81
+http://www.google.ie/search
+0 2
+http://www.toastpoint.com/limerick/1995/nautaug.html
+0 1
+http://www.toastpoint.com/gifs/pastheaders.html
+0 29
+http://www.ask.com/web
+0 1
+http://www.toastpoint.com/haiku/1997/haiku297.html
+0 2
+http://www.toastpoint.com/limerick/1998/nice298.html
+0 9
+http://toastpoint.com/
+0 30
+http://www.toastpoint.com/haiku/haiku299.html
+0 32
+http://toastpoint.com/news.html
+0 1
+http://www.phone-soft.net/layout-3/cyber-world/o2743i.htm
+0 2
+http://images.google.fr/imgres
+0 2
+http://www.toastpoint.com/prideforallages.html
+0 1
+http://search.yahoo.com/search
+0 4
+http://www.toastpoint.com/writing/kyw.html
+0 2
+http://www.toastpoint.com/limerick/nice299.html
+0 283
+http://images.google.ca/imgres
+0 1
+http://www.toastpoint.com/limerick/1996/nice396.html
+0 1
+http://www.google.com/ie
+0 1
+http://www.ask.com/bar
+0 3
+http://www.toastpoint.com/limerick/1995/nicedec.html
+0 5
+http://www.toastpoint.com/limerick/1996/nice896.html
+0 9
+http://search.isp.netscape.com/nsisp/boomframe.jsp
+0 1
+http://www.toastpoint.com/limerick/1997/nice197.html
+0 7
+http://stanharding.livejournal.com/334419.html
+0 1
+http://www.toastpoint.com/contests.html
+0 8
+http://www.toastpoint.com/toastpointtopleft.html
+0 50
+http://www.toastpoint.com/haiku/haiku.html
+0 40
+http://images.ask.com/fr
+0 33
+http://www.search.com/search
+0 1
+http://www.picsearch.com/info.cgi
+0 4
+http://www.toastpoint.com/limerick/1998/naut998.html
+0 1
+http://www.toastpoint.com/toastpointtopright.html
+0 50
+http://www.google.com/m/search
+0 1
+http://www.toastpoint.com/limerick/1995/nautoct.html
+0 1
+http://www.toastpoint.com/fiction/novels/rosalind.html
+0 1
+http://search.mywebsearch.com/mywebsearch/AJweb.jhtml
+0 1
+http://www.insuremonterey.com/
+0 1
+http://charleskeiser.com/
+0 8
+http://www.google.com/
+0 1
+http://images.google.com/imgres
+0 5
+http://www.toastpoint.com/limerick/1996/lim1996.html
+0 1
+http://www.toastpoint.com/limerick/nice499.html
+0 21
+http://www.google.ca/search
+0 9
+http://www.toastpoint.com/midi/midi.html
+0 1
+http://www.dogpile.com/dogpile/ws/results/Images/trial by jury/1/417/TopNavigation/Relevance/iq
+0 1
+http://www.toastpoint.com/fiction/novels/parkey.html
+0 2
+http://www.toastpoint.com/limerick/1998/naut198.html
+0 3
+http://www.acrometalmfg.com/
+0 1
+http://www.toastpoint.com/limerick/1995/bestnice.html
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 Nokia6120c/3.83; 
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; YPC 3
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.7) G
+0 26
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB5; Mozi
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Hotba
+0 1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 2_2_1 like Mac OS X; en-u
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB5; SLCC
+0 171
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Antiv
+0 4
+Mozilla/5.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.
+0 250
+Mozilla/4.0 (compatible;)
+0 12
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoP
+0 22
+webcollage.perl/1.107
+0 36
+Opera/9.64 (Windows NT 5.1; U; en) Presto/2.1.1
+0 10
+Baiduspider+(+http://www.baidu.jp/spider/)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.6) 
+0 4
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobil
+0 629
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0;Google Wire
+0 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {62AC8B44-
+0 1
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; .NET CLR 1
+0 1
+Baiduspider+(+http://help.baidu.jp/system/05.html)
+0 2
+Googlebot-Image/1.0
+0 55
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.5 (l
+0 14
+Java/1.6.0_04
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.9.0.5) Geck
+0 18
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.
+0 4
+Mozilla/5.0 (compatible; Yahoo! DE Slurp; http://help.yahoo.c
+0 125
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET 
+0 16
+KWC-S1300/ UP.Browser/7.2.6.1.838 (GUI) MMP/2.0
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.6) Gec
+0 5
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; r
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) Appl
+0 68
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-GB; rv:1.9.0
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.0.5) G
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.20) 
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MathP
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.
+0 28
+Opera/10.00 (Windows NT 5.1; U; en) Presto/2.2.0
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; BT Openwor
+0 5
+psbot/0.1 (+http://www.picsearch.com/bot.html)
+0 6
+W3C_Validator/1.606
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB5)
+0 8
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; NetCaptor 
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; WDL6.1.1; 
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB5;
+0 49
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; F
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.
+0 46
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Primu
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GameB
+0 1
+TurnitinBot/2.1 (http://www.turnitin.com/robot/crawlerinfo.ht
+0 34
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.1) G
+0 4
+Mozilla/5.0 (compatible; DBLBot/1.0; +http://www.dontbuylists
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; G
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; S
+0 1
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.
+0 3
+Mozilla/4.05 [en]
+0 17
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Maxth
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Crazy Brow
+0 1
+Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.
+0 39
+msnbot/1.0 (+http://search.msn.com/msnbot.htm)
+0 20
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; .NET CLR 1
+0 18
+webcollage/1.133
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; AT&T CSM6.
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5; SU 3
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 42
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {3D427E3C-
+0 1
+webcollage/1.140
+0 2
+Mozilla/5.0 (compatible; Charlotte/1.1; http://www.searchme.c
+0 275
+webcollage/1.143
+0 4
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.6) Gecko/200
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.8 (b
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; IE6CFG32a;
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5)
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; MSDigitalL
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; iebar; acc=von
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5; SIMB
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET 
+0 242
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9) 
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9) Gecko/20
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5; .NET
+0 181
+Mozilla/4.0 (compatible; SpiderView 1.0;unix)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; nl; rv:1.9.0.7) Geck
+0 8
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET 
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1
+0 1
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmaste
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Ge
+0 3
+Mozilla/5.0 (compatible; OpenWeb 5.7.2.3-02) Opera 8.54
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)
+0 51
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8
+0 13
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 81
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.4) G
+0 3
+oBot
+0 67
+Mozilla/4.0 (compatible; MSIE 7.0; America Online Browser 1.1
+0 3
+Yanga WorldSearch Bot v1.1/beta (http://www.yanga.co.uk/)
+0 2
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; pl; rv:1
+0 1
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1
+0 9
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.5) G
+0 28
+kalooga/KaloogaBot (Kalooga; http://www.kalooga.com/info.html
+0 8
+BlackBerry8100/4.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 
+0 4
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/g
+0 70
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1
+0 6
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.0
+0 27
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Tesco; .NE
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.
+0 1
+Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.
+0 13
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.16) 
+0 1
+Opera/9.62 (Windows NT 6.0; U; en) Presto/2.1.1
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLC
+0 35
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1
+0 337
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2
+0 66
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; WOW64; .NE
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {1FD392F3-
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; FunWebProd
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWe
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; AtHome033;
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 322
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.12) 
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.6) G
+0 105
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {ECC51147-
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7) Gecko
+0 6
+Mozilla/5.0 (Danger hiptop 4.6; U; rv:1.7.12) Gecko/20050920
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.10) Ge
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.7) G
+0 100
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.6) G
+0 12
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; FunWe
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)
+0 11
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Sky B
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.7) Geck
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.0.7) G
+0 26
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Q312461; .
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Google Wir
+0 3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-us) AppleWebKit
+0 13
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; hu; rv:1.9.0.7) Geck
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/5
+0 36
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3; en-us) Appl
+0 4
+panscient.com
+0 33
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.12) 
+0 7
+Wget/1.10.2
+0 102
+Mozilla/5.0 (compatible; ScoutJet; +http://www.scoutjet.com/)
+0 25
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1
+0 25
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2
+0 14
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en; rv:1.8.1.19) G
+0 5
+Mozilla/4.0 (compatible; NaverBot/1.0; http://help.naver.com/
+0 26
+Mozilla/5.0 (compatible; MSIE or Firefox mutant; not on Windo
+0 7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 2_2 like Mac OS X; en-us)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 2
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Katiesoft 
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent)
+0 13
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5; Info
+0 14
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 147
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.20) 
+0 5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9
+0 24
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;1813)
+0 1
+Baiduspider+(+http://www.baidu.com/search/spider_jp.html)
+0 1
+Mozilla/5.0 (compatible; discobot/1.0; +http://discoveryengin
+0 1
+Mozilla/5.0 (PLAYSTATION 3; 1.00)
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {F7017D5B-
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; S
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Mozilla/4.
+0 7
+Yandex/1.01.001 (compatible; Win16; I)
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; .
+0 4
+msnbot/1.1 (+http://search.msn.com/msnbot.htm)
+0 56
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {7FE5FE2B-
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; F
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; G
+0 7
+ia_archiver (+http://www.alexa.com/site/help/webmasters; craw
+0 17
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0 [e
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; Y
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko
+0 13
+Mozilla/4.0 (compatible; MSIE 7.0; Win32)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; YComp 5.0.
+0 1
+Mozilla/5.0 (compatible; Charlotte/1.0t; http://www.searchme.
+0 9
+Python-urllib/1.17
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9) Gecko
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.8.1.15; 
+0 5
+ia_archiver-web.archive.org
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YPC 3.0.3;
+0 5
+CyberPatrol SiteCat Webbot (http://www.cyberpatrol.com/cyberp
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YComp 5.0.
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) G
+0 13
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-TW; rv:1.8.1.20) 
+0 7
+SAMSUNG-SGH-I617/1.0 Mozilla/4.0 (compatible; MSIE 6.0; Windo
+0 8
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/
+0 55
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.0.7) Geck
+0 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; SDS IE6 SP
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YPC 3.2.0;
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 28
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SIMBAR={49
+0 1
+Y!J-SRD/1.0
+0 1
+webcollage1/1.129
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleW
+0 53
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SIMBA
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NE
+0 133
+SimilarPages/Nutch-1.0-dev (SimilarPages Nutch Crawler; http:
+0 300
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {704A62EA-
+0 1
+Wget/1.8.2
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041
+0 1
+Mozilla/5.0 (compatible; Google Desktop)
+0 12
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) VoilaB
+0 235
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; byond_3.5;
+0 1
+MOT-MILLA/00.62 UP.Browser/6.2.3.4.c.1.123 (GUI) MMP/2.0
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.3) G
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.18) 
+0 12
+Sosospider+(+http://help.soso.com/webspider.htm)
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB5; FunW
+0 14
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; ntlworld v
+0 5
+Mozilla/4.0(compatible; MSIE 5.0; Windows 98; DigExt)
+0 2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWeb
+0 30
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.7) Geck
+0 5
+DoCoMo/2.0 SH902i (compatible; Y!J-SRD/1.0; http://help.yahoo
+0 1
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 2_2_1 like Mac OS X; en
+0 4
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0
+0 4
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 
+0 569
+Opera/7.11 (Windows NT 5.1; U) [en]
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9
+0 7
+Mozilla/5.0 (whoisbehind.org meta bot) Firefox/3.0.5
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Alexa Tool
+0 6
+Nokia6300/2.0 (05.50) Profile/MIDP-2.0 Configuration/CLDC-1.1
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; GTB
+0 14
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.5) G
+0 20
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; T312461; .
+0 10
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; Sky
+0 5
+Mozilla/4.0
+0 12
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Sky Broadb
+0 3
+LWP::Simple/5.814
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) G
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.6) G
+0 40
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5; en-us) Appl
+0 30
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProd
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.0.6) G
+0 6
+SonyEricssonW880i/R8BA Browser/NetFront/3.3 Profile/MIDP-2.0 
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProd
+0 73
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  Embedded 
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; hu; rv:1.9.0.7) Geck
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/5
+0 24
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_6; en-us) AppleW
+0 13
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.12) 
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) G
+0 392
+# End Of Table - agents
+# -search strings- 
+naughty limerick
+4
+rough sex sheep fucker sex
+1
+limerick there once was a man or guy or boy named randy
+2
+david connolly-the poet who wrote letters from my mom
+1
+naughty irish limericks
+1
+wedding toast points
+1
+quill cartoon image
+1
+michael radovanovich
+1
+goodbye limerick
+1
+american language institute vicky yu
+1
+limerics sylables 8-8-5-5-8
+1
+homophobic comedy
+1
+limerick there once was a woman who claimed her cherry was brok
+1
+the mysterious life of twin
+1
+naughty limerick pirate
+1
+increase the size of my clit
+1
+sping eagle bouquet
+1
+i crawl into yor veins......satisfaction guaranteed
+1
+saikaku haiku moon
+1
+limerick said orville to wilbur
+1
+agustin de mello karate
+1
+what are toast points
+1
+limerick naughty leprechaun
+1
+limerick tennis poems
+1
+limerick clean
+2
+best limericks clean
+1
+limerick there once was a girl named meg
+1
+she lost her cherry but that's no sin she's still got he box th
+1
+claudette advice get divorced not discarded
+1
+mad austrian and haiku
+2
+naughty limicks
+1
+limerick virginity old age
+1
+naughty limericks
+54
+naughty limericks with molly
+1
+big ass point.com
+1
+clean limerick
+9
+clean lymric
+1
+limerick contests
+2
+raindrops falling on the window pane sweet delight
+1
+naughty drinking limerick
+1
+eric peterson san francisco
+1
+naughty limercks
+1
+limmerick gump
+1
+limericks about running
+1
+example of an 88558 syllable limerick
+1
+haiku contest
+2
+horney woman lymric
+1
+limerick: there once was a man named bill
+1
+ark titanic limerick
+1
+a toast to someone leaving a job
+1
+funny clean limericks
+14
+limerick contest
+5
+squeaky cello mute
+1
+comedian eric peterson
+1
+mah hog
+1
+clean limericks nantucket
+1
+tenboobs
+1
+fly in my soup lymeric
+1
+clean limericks
+24
+change a limerick to a toast
+1
+making toast points
+1
+limerick there once was a girl from maine who became completely
+1
+naked girls showing ther titties and pussy
+1
+japanese drawing geisha
+1
+night
+1
+naughty amatuer limericks
+1
+clean giant limericks
+1
+charles keiser
+1
+ogden nield
+1
+milli vanilli sucked
+1
+limericks for november
+1
+carpentry cunt hair
+1
+haiku about march pdf
+1
+free business start up or anniversary speech toast
+1
+www.toast freezer.com
+1
+a girl with one leg and a heart of gold
+1
+crude limericks
+5
+limericks naughty
+2
+unique toast points
+1
+limerick laughs clean
+1
+clean limericks for banks
+1
+quill cartoon
+1
+haiku old pajamas
+1
+naughty maid of honor
+1
+http://www.toastpoint.com/haiku/haiku299.html
+2
+richard nedervelt
+1
+clean school limerick
+1
+a man named bates dance the fandango
+1
+good bye limerick
+1
+bradley staubes
+1
+about sean the poet who writes nature haiku
+1
+a man named durkin limerick
+1
+percy crews 2
+1
+naughty teasers for men
+1
+madhura chivate
+2
+40th birthday limerick
+1
+dirty 40th birthday limerick
+1
+toast point
+1
+irish snake limericks
+1
+limericks 8-8-5-5-8
+1
+limerick there was a new teacher
+2
+limerick structure
+1
+my baby brother had a fall a limerick
+1
+limerick toasts
+1
+lord of the flies limerick
+1
+dadd breaks dau hymen
+1
+travis jervey surfer
+1
+capital thing mikado
+1
+why are black gays so funny
+1
+running limericks
+2
+limericks clean
+2
+lymeric toast
+1
+there was a young man from trent limericks
+1
+percy crews ii
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,7 @@
+66.249.65.232 - - [01/Jan/2009:01:50:23 -0500] "GET /robots.txt HTTP/1.1" 404 693 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.65.232 - - [01/Jan/2009:01:50:23 -0500] "GET /haiku/1996/haik1996.html HTTP/1.1" 200 1887 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+65.55.230.192 - - [01/Jan/2009:03:47:30 -0500] "GET /robots.txt HTTP/1.1" 404 693 "-" "msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)"
+65.55.230.192 - - [01/Jan/2009:03:47:30 -0500] "GET /limerick/nice299.html HTTP/1.1" 200 28130 "-" "msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)"
+208.80.194.36 - - [01/Jan/2009:10:36:12 -0500] "GET / HTTP/1.0" 200 464 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; iebar; acc=ventura5; acc=; SV1)"
+66.249.65.232 - - [01/Jan/2009:19:24:47 -0500] "GET /robots.txt HTTP/1.1" 404 693 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.65.232 - - [01/Jan/2009:19:24:47 -0500] "GET /writing/sept11.html HTTP/1.1" 200 17233 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
