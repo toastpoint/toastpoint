@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋This is the README for the Github annex of toastpoint.com
 
 <!--
 Eric Peterson
